@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 1 
+title: Chapter I, Why Ethical Hacking? 
 parent: Ethical Hacking
 nav_order: 30010
 ---
@@ -26,7 +26,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 1. TOC
 {:toc}
 
-### Chapter 1 
+### Chapter I 
 {: .no_toc}
 
 ## Why Ethical Hacking?
