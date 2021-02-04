@@ -175,5 +175,5 @@ On a final note: this book was conceived with web viewing in mind. As a result, 
 </div>
 
 <div style='text-align:right' markdown="1">
-[Next](/docs/1984-part-3-chapter-2/)
+[Next](/docs/ethical-hacking-chapter-2/)
 </div>

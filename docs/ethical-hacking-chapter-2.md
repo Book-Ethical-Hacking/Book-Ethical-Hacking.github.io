@@ -159,13 +159,15 @@ Tor is described as onion routing due to the use of multiple layers of proxy ser
 
 **Peer-to-peer (P2P) communications:** P2P “is any distributed network architecture composed of participants that make a portion of their resources (such as processing power, disk storage or network bandwidth) directly available to other network participants, without the need for central coordination instances.”<sup>30</sup> Famous botnets such as Waledac, Torpig, and Mariposa use P2P protocol as their backup C&C. A P2P network relies on the capacity of multiple participants’computers, each of which has both client and server capabilities. This differs from conventional client-server architectures, where a relatively low number of servers provide the core function of a service or application.<sup>31</sup> Such networks are useful for many purposes, such as sharing of scientific information among researchers, file sharing  of videos and music, and for telephone traffic. P2P operates on peer nodes.<sup>32</sup> P2P may be used to send content in clear or encrypted format. The ad hoc distribution of P2P makes it an ideal server location for C&C. The use of P2P channels allows an additional layer of rapid IP-address fluctuation. For this reason, botnets that use P2P channels are seen as offering the equivalent of “double fast-flux.” The diagrams in figure 1 explain a botnet.
 
-gure 1 explain a botnet. In step 1, the botnet herder needs to install bots on computers and thereby acquire compromised computers in order to build his/her botnet.
+In step 1, the botnet herder needs to install bots on computers and thereby acquire compromised computers in order to build his/her botnet.
 
 In step 2, the botnet master then makes content available to the bots, which causes them to perform actions. The botnet master may or may not be the botnet herder who builds the botnet. The botnet master could, for example, hire the use of the botnet.
 
 There are three ways of using a botnet to perform a denial-ofservice attack:
 
 **Make the botnet.** In the first, a person would have to physically make a botnet through painstaking hours of labour, as it would involve compromising several hundred, if not thousands, of computers. This type of botnet would require the botnet master to have a high level of computer skills.
+
+![Figure 1. Steps in Procuring and Using a Botnet.](https://statics.bsafes.com/images/book-ethical-hacking/ethical-hacking-fig-1.png)
 
 **Hire/rent a botnet.** The second type involves simply hiring someone to execute a denial-of-service attack. This requires no computer skills, but for the ability to use a search engine (such as Google). Bot-agent design and bot delivery have become a commoditized service industry.<sup>33</sup> A small botnet is sufficient to launch an effective denial-of-service attack causing much damage, and costs as little as US$200 for a twenty-four-hour attack.<sup>34</sup> A person does not require any special computer skills to use a botnet to commit a crime. Figure 10 later in the book sketches the commercialization of denial-of-service attacks with a botnet. The customer would merely specify the targeted website to attack, pay a nominal fee of US$200, and a denial-of-service attack would be launched for twenty-four hours against the website.
 
@@ -236,5 +238,9 @@ There are three ways of using a botnet to perform a denial-ofservice attack:
 </div>
 
 <div style='text-align:right' markdown="1">
-[Next](/docs/1984-part-3-chapter-2/)
+[Next](/docs/ethical-hacking-chapter-3/)
+</div>
+
+<div style='text-align:left' markdown="1">
+[Previous](/docs/ethical-hacking-chapter-1/)
 </div>
