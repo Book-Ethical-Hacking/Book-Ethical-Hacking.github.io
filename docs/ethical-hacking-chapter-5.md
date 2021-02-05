@@ -31,10 +31,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 ## Select Ethical-Hacking Incidences: Anonymous 
 
-### CHAPTER V
-
-## Select Ethical-Hacking Incidences: Anonymous
-
 One of the most well-known ethical-hacking “groups” is Anonymous. The word group here is arguably used incorrectly as Anonymous is more like an umbrella name or a movement for a plethora of smaller groups and operations. In addition to performing denial-of-service attacks, members of some of the smaller groups participate in more sophisticated forms of hacktivism that require a higher range of computer skills. Instances of these more sophisticated attacks include the release of names and details of the Mexican drug cartel, Los Zetas, the names and details of individuals who use childpornography sites, and the capturing of secret documents held by governments around the world—some of these documents are then given and released by WikiLeaks.
 
 Hacktivism is not limited to attacking information systems and retrieving documents. It also extends to finding technical solutions to mobilize people. At the height of the Egyptian e-revolution the major Internet-service providers and mobile-phone companies, under government direction, shut down the Internet, flipping the so-called Internet kill switch, preventing people from using the Internet and mobile phones. This, in turn, affected people’s ability to mobilize. Anonymous worked around the clock to ensure that images from the revolution were still sent to international media.
