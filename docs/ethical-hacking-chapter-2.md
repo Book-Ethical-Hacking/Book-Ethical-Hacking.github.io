@@ -163,7 +163,7 @@ In step 1, the botnet herder needs to install bots on computers and thereby acqu
 
 In step 2, the botnet master then makes content available to the bots, which causes them to perform actions. The botnet master may or may not be the botnet herder who builds the botnet. The botnet master could, for example, hire the use of the botnet.
 
-There are three ways of using a botnet to perform a denial-ofservice attack:
+There are three ways of using a botnet to perform a denial-of-service attack:
 
 **Make the botnet.** In the first, a person would have to physically make a botnet through painstaking hours of labour, as it would involve compromising several hundred, if not thousands, of computers. This type of botnet would require the botnet master to have a high level of computer skills.
 

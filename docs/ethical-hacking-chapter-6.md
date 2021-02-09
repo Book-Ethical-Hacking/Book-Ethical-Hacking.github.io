@@ -77,8 +77,8 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 				<br>
 			</td>
-			<td valign="top">WikiLeaks, &ldquo;Skype and the Bavarian Trojan in the middle,&rdquo; available at http://wikileaks.org/wiki/Skype_and_the_ Bavarian_trojan_in_the_middle.
-				<br>&ldquo;German hackers discover government spying&rdquo; (Al Jazeera English, October 25, 2011), available at http://www.youtube. com/watch?v=lIwa_-jvbDQ.
+			<td valign="top">WikiLeaks, &ldquo;Skype and the Bavarian Trojan in the middle,&rdquo; available at http://wikileaks.org/wiki/Skype_and_the_Bavarian_trojan_in_the_middle.
+				<br>&ldquo;German hackers discover government spying&rdquo; (Al Jazeera English, October 25, 2011), available at http://www.youtube.com/watch?v=lIwa_-jvbDQ.
 				<br>
 			</td>
 		</tr>
@@ -157,7 +157,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">J. Harrington, &ldquo;Hacktivism: What is the Chaos Computer &nbsp;Club?,&rdquo; <em>Suite101</em>, September 8, 2011, previously available &nbsp;at http://joharrington.suite101.com/hacktivism-what-is- the-chaos-computer-club-a387917.
+			<td valign="top">J. Harrington, &ldquo;Hacktivism: What is the Chaos Computer &nbsp;Club?,&rdquo; <em>Suite101</em>, September 8, 2011, previously available &nbsp;at http://joharrington.suite101.com/hacktivism-what-is-the-chaos-computer-club-a387917.
 				<br>WIKIPEDIA, &ldquo;Chaos Computer Club,&rdquo; available at &nbsp;http://en.wikipedia.org/wiki/Chaos_Computer_Club.
 				<br>
 			</td>
@@ -494,7 +494,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Motivation:
 				<br>
 			</td>
-			<td valign="top">To urge the people and government of Germany to stop providing financial and political support to the political regimein Kiev,Ukraine&rsquo;s capital city. Itaccusedthe Ukrainian Prime Minister of using money from the European Union and International Monetary Fund to fund the war in eastern Ukraine.
+			<td valign="top">To urge the people and government of Germany to stop providing financial and political support to the political regime in Kiev,Ukraine&rsquo;s capital city. It accused the Ukrainian Prime Minister of using money from the European Union and International Monetary Fund to fund the war in eastern Ukraine.
 				<br>
 			</td>
 		</tr>
@@ -652,7 +652,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">A. K. Jha, &ldquo;Pro-Russian Hackers leaks documents from Central Election Commission of Ukraine,&rdquo; <em>Tech Worm</em>, May 24, 2014, available at http://www.techworm. net/2014/05/pro-russian-hackers-leaks-documents.html.
+			<td valign="top">A. K. Jha, &ldquo;Pro-Russian Hackers leaks documents from Central Election Commission of Ukraine,&rdquo; <em>Tech Worm</em>, May 24, 2014, available at http://www.techworm.net/2014/05/pro-russian-hackers-leaks-documents.html.
 				<br>
 				<br>The hackers claimed responsibility for the attack in a statement released on their website, and said they would continue to make such information public on the following website: http://www.cyber-berkut.org/en/.
 				<br>
@@ -906,7 +906,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 				<br>
 			</td>
-			<td valign="top">S. Ragan, &ldquo;PBS: LulzSec attack an attempt to chill journalism,&rdquo; <em>Tech Herald</em>, May 30, 2011, available at http://www.thetechherald.com/article.php/201122/7215/ PBS-LulzSec-attack-an-attempt-to-chill-journalism.
+			<td valign="top">S. Ragan, &ldquo;PBS: LulzSec attack an attempt to chill journalism,&rdquo; <em>Tech Herald</em>, May 30, 2011, available at http://www.thetechherald.com/article.php/201122/7215/PBS-LulzSec-attack-an-attempt-to-chill-journalism.
 				<br>&ldquo;Happy Hour: Weinergate, PBS Hacked&rdquo; (June 1, 2011) http://www.youtube.com/watch?v=BiGEIPT8XFQ.
 				<br>
 			</td>
@@ -986,7 +986,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">J. Davis, &ldquo;LulzSec&rsquo;s CIAhack just one ofmany high-profile hackings<em>,&rdquo; International Business Times</em>, June 15, 2011, available at http://www.ibtimes.com/ articles/163678/20110615/google-lulzsec-s-cia-hack-justone-of-many-high-profile-hackings.htm (last accessed June 20, 2011).
+			<td valign="top">J. Davis, &ldquo;LulzSec&rsquo;s CIA hack just one of many high-profile hackings<em>,&rdquo; International Business Times</em>, June 15, 2011, available at http://www.ibtimes.com/articles/163678/20110615/google-lulzsec-s-cia-hack-justone-of-many-high-profile-hackings.htm (last accessed June 20, 2011).
 				<br>S. Schroeder, &ldquo;LulzSec Hackers Take Down CIA Website,&rdquo; <em>Mashable</em>, June 16, 2011, available at http://mashable.com/2011/06/16/lulzsec-hackers-cia/.
 				<br>&ldquo;LulzSec Hacks the CIA&rdquo; (June 17, 2011), available at &nbsp;http://www.youtube.com/watch?v=QzQMBaIjo_w.
 				<br>
@@ -1149,7 +1149,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 			</td>
 			<td valign="top">E. Mills, &ldquo;Hackers taunt Sony with more data leaks, hacks,&rdquo;&nbsp;
-				<br><em>CNET</em>, June 6, 2011, available at http://news.cnet.com/8301-27080_3-20069443-245/hackers-taunt-sony-with-more- data-leaks-hacks/.
+				<br><em>CNET</em>, June 6, 2011, available at http://news.cnet.com/8301-27080_3-20069443-245/hackers-taunt-sony-with-more-data-leaks-hacks/.
 				<br>L. Constantin, &ldquo;Sony Pictures Russian Website Compromised,&rdquo; <em>Softpedia</em>, June 6, 2011, available at &nbsp;http://news.softpedia.com/news/Sony-Pictures-RussianWebsite-Compromised-204563.shtml.
 				<br>
 			</td>
@@ -1184,7 +1184,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			</td>
 			<td valign="top">Site inaccessible for an unspecified amount of time (presumably down for maintenance).
 				<br>The hackers &ldquo;published the structure of the database which appears to contain information about accounts registered on the content management solution (CMS) used by Sony&nbsp;
-				<br>Pictures, as well as the site&rsquo;s forum,&rdquo; Constantinreported.
+				<br>Pictures, as well as the site&rsquo;s forum,&rdquo; Constantin reported.
 				<br>
 			</td>
 		</tr>
@@ -1233,7 +1233,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">P. Olson, &ldquo;How Twitter Helped Brazil Become a Hotbed for Hacktivists,&rdquo; <em>Forbes</em>, February 27, 2012, available at http://www.forbes.com/sites/parmyolson/2012/02/27/ how-twitter-helped-brazil-become-a-hotbed-for-hacktivists/
+			<td valign="top">P. Olson, &ldquo;How Twitter Helped Brazil Become a Hotbed for Hacktivists,&rdquo; <em>Forbes</em>, February 27, 2012, available at http://www.forbes.com/sites/parmyolson/2012/02/27/how-twitter-helped-brazil-become-a-hotbed-for-hacktivists/
 				<br>
 			</td>
 		</tr>
@@ -1314,7 +1314,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 			</td>
 			<td valign="top">FBI, &ldquo;Sixteen Individuals Arrested in the United States for Alleged Roles in Cyber Attacks&rdquo; (press release, July 19, 2011), available at http://www.fbi.gov/news/pressrel/press-releases/sixteen-individuals-arrested-in-the-unitedstates-for-alleged-roles-in-cyber-attacks (last accessed November 10, 2011).
-				<br>A. Martin, &ldquo;How Two LulzSec Hackers Slipped Up,&rdquo; &nbsp;<em>The Atlantic</em>, July 20, 2011, available at https://www.theatlantic.com/technology/archive/2011/07/how-two-lulzsec- hackers-slipped/353089/.
+				<br>A. Martin, &ldquo;How Two LulzSec Hackers Slipped Up,&rdquo; &nbsp;<em>The Atlantic</em>, July 20, 2011, available at https://www.theatlantic.com/technology/archive/2011/07/how-two-lulzsec-hackers-slipped/353089/.
 				<br>
 			</td>
 		</tr>
@@ -1729,7 +1729,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">BBC News, &ldquo;Baidu hacked by &lsquo;Iranian cyber army.&rsquo;&rdquo; January 12, 2010, available at http://news.bbc.co.uk/2/ hi/8453718.stm (last accessed January 13, 2010).
+			<td valign="top">BBC News, &ldquo;Baidu hacked by &lsquo;Iranian cyber army.&rsquo;&rdquo; January 12, 2010, available at http://news.bbc.co.uk/2/hi/8453718.stm (last accessed January 13, 2010).
 				<br><em>Green Voice of Freedom,</em> &ldquo;Who are the &lsquo;Iranian Cyber &nbsp;Army,&rsquo;&rdquo; December 15, 2010, previously available at http://en.irangreenvoice.com/article/2010/feb/19/1236 &nbsp;(last accessed December 16, 2010).
 				<br>
 			</td>
@@ -1891,7 +1891,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 			</td>
 			<td valign="top">TechnoFriends, &ldquo;TechCrunch Hacked? (yes, Techcrunch got hacked),&rdquo; January 26, 2010, available at http://technofriends.in/2010/01/26/did-techcrunch-got-hacked/ (last accessed November 15, 2010).
-				<br>J. Kirk, &ldquo;Iranian Cyber Army Moves Into Botnets,&rdquo; PCWorld, August 25, 2010, available at http://www.pcworld. com/businesscenter/article/208670/iranian_cyber_army_ moves_into_botnets.html.</td>
+				<br>J. Kirk, &ldquo;Iranian Cyber Army Moves Into Botnets,&rdquo; PCWorld, August 25, 2010, available at http://www.pcworld.com/businesscenter/article/208670/iranian_cyber_army_moves_into_botnets.html.</td>
 		</tr>
 		<tr>
 			<td valign="top">Motivation:
@@ -1970,7 +1970,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 			</td>
 			<td valign="top">J. Nazario, &ldquo;Politically Motivated Denial of Service Attacks,&rdquo; available at http://www.ccdcoe.org/publications/virtualbattlefield/12_NAZARIO%20Politically%20Motivated%20DDoS.pdf.
-				<br>T. L. Thomas, &ldquo;The Internet in China: Civilian and Military Uses,&rdquo; <em>Information &amp; Security: An International Journal</em> 7 (2001), 159&ndash;173, available at http://fmso.leavenworth.army. mil/documents/china-internet.htm.
+				<br>T. L. Thomas, &ldquo;The Internet in China: Civilian and Military Uses,&rdquo; <em>Information &amp; Security: An International Journal</em> 7 (2001), 159&ndash;173, available at http://fmso.leavenworth.army.mil/documents/china-internet.htm.
 				<br>
 			</td>
 		</tr>
@@ -2938,7 +2938,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">L. Leyden, &ldquo;EU climate exchange website hit by green-hat hacker,&rdquo; <em>The Register</em>, July 26, 2010, available at http://www. theregister.co.uk/2010/07/26/climate_exchange_website_ hack/ (last accessed July 27, 2010).
+			<td valign="top">L. Leyden, &ldquo;EU climate exchange website hit by green-hat hacker,&rdquo; <em>The Register</em>, July 26, 2010, available at http://www.theregister.co.uk/2010/07/26/climate_exchange_website_hack/ (last accessed July 27, 2010).
 				<br>
 				<br>Takver, &ldquo;European Climate Exchange website hacked,&rdquo; <em>Independent Media Centre Australia</em>, July 25, 2010, available at http://indymedia.org.au/2010/07/24/european-climateexchange-website-hacked (last accessed July 29, 2010).
 				<br>
@@ -2972,7 +2972,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Damage caused:
 				<br>
 			</td>
-			<td valign="top">Site was defaced for a weekend. Highlighted thegroup&rsquo;s opposition to carbon trading as a means of tackling climate change.
+			<td valign="top">Site was defaced for a weekend. Highlighted the group&rsquo;s opposition to carbon trading as a means of tackling climate change.
 				<br>
 			</td>
 		</tr>
@@ -3055,7 +3055,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Damage caused:
 				<br>
 			</td>
-			<td valign="top">Accidently tookdown a French rugby team&rsquo;s fan site (allezdax.com) for two weeks.
+			<td valign="top">Accidently took down a French rugby team&rsquo;s fan site (allezdax.com) for two weeks.
 				<br>
 			</td>
 		</tr>
@@ -3104,7 +3104,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">The Wrong Guy, &ldquo;Activists hack Frenchruling party&rsquo;s phone numbers,&rdquo; <em>WhyWeProtest</em>, November 10, 2011, available at http://forums.whyweprotest.net/threads/ activists-hack-french-ruling-partys-phone-numbers.96206/
+			<td valign="top">The Wrong Guy, &ldquo;Activists hack Frenchruling party&rsquo;s phone numbers,&rdquo; <em>WhyWeProtest</em>, November 10, 2011, available at http://forums.whyweprotest.net/threads/activists-hack-french-ruling-partys-phone-numbers.96206/
 				<br>
 			</td>
 		</tr>
@@ -3363,7 +3363,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">E. Kovacs, &ldquo;RedHack Begins Hack Attacks in Protest Against Turkey&rsquo;s New Internet Law,&rdquo; <em>Tech Worm</em>, March 28, 2014, available at http://www.techworm.net/2014/03/ redhack-ddoses-turkish.html
+			<td valign="top">E. Kovacs, &ldquo;RedHack Begins Hack Attacks in Protest Against Turkey&rsquo;s New Internet Law,&rdquo; <em>Tech Worm</em>, March 28, 2014, available at http://www.techworm.net/2014/03/redhack-ddoses-turkish.html
 				<br>
 			</td>
 		</tr>
@@ -3371,7 +3371,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Motivation:
 				<br>
 			</td>
-			<td valign="top">Done inprotest of the government&rsquo;s banning of Twitter and YouTube across the country.
+			<td valign="top">Done in protest of the government&rsquo;s banning of Twitter and YouTube across the country.
 				<br>
 			</td>
 		</tr>
@@ -3452,7 +3452,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 			</td>
 			<td valign="top">A. K. Jha, &ldquo;RedHack leaks email id&rsquo;s and password from Turkish Cooperation and Coordination Agency &nbsp;
-				<br>(TIKA),&rdquo; <em>Tech Worm</em>, May 18, 2014, available at &nbsp;http://www.techworm.net/2014/05/redhack-leaks- email-ids-and-password.html
+				<br>(TIKA),&rdquo; <em>Tech Worm</em>, May 18, 2014, available at &nbsp;http://www.techworm.net/2014/05/redhack-leaks-email-ids-and-password.html
 				<br>
 			</td>
 		</tr>
@@ -4028,7 +4028,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Motivation:
 				<br>
 			</td>
-			<td valign="top">To criticize the Japanesegovernment&rsquo;s refusal to acknowledge the 1937 Nanjing Massacre in China
+			<td valign="top">To criticize the Japanese government&rsquo;s refusal to acknowledge the 1937 Nanjing Massacre in China
 				<br>
 			</td>
 		</tr>
@@ -4891,7 +4891,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Target:
 				<br>
 			</td>
-			<td valign="top">India&rsquo;sBhabhaAtomicResearch Centre
+			<td valign="top">India&rsquo;s Bhabha Atomic Research Centre
 				<br>
 			</td>
 		</tr>
@@ -5145,7 +5145,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">J. Wyss,&ldquo;Political hackers are one of Latin America&rsquo;s newest headaches,&rdquo; <em>Miami Herald</em>, November 3, 2011, &nbsp;available at http://www.miamiherald.com/2011/10/31/ 2481360/political-hackers-are-one-of-latin.html
+			<td valign="top">J. Wyss,&ldquo;Political hackers are one of Latin America&rsquo;s newest headaches,&rdquo; <em>Miami Herald</em>, November 3, 2011, &nbsp;available at http://www.miamiherald.com/2011/10/31/2481360/political-hackers-are-one-of-latin.html
 				<br>
 			</td>
 		</tr>
@@ -6026,7 +6026,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">J. Allen, &ldquo;Ethical hacker points out security concerns with using home baby monitors,&rdquo; <em>7News</em> Denver, January 28, 2015, available at http://www.thedenverchannel.com/news/ local-news/ethical-hacker-points-out-security-concernswith-using-home-baby-monitors01282015
+			<td valign="top">J. Allen, &ldquo;Ethical hacker points out security concerns with using home baby monitors,&rdquo; <em>7News</em> Denver, January 28, 2015, available at http://www.thedenverchannel.com/news/local-news/ethical-hacker-points-out-security-concernswith-using-home-baby-monitors01282015
 				<br>
 			</td>
 		</tr>
@@ -6516,7 +6516,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">A. Penenberg, &ldquo;Hacking Bhabha,&rdquo; <em>Forbes</em>, November 16, 1998, available at http://www.forbes.com/1998/11/16/feat.html &nbsp;(last accessed November 11, 2011).
+			<td valign="top">A. Penenberg, &ldquo;Hacking Bhabha,&rdquo; <em>Forbes</em>, November 16, 1998, available at http://www.forbes.com/1998/11/16/feat.html&nbsp;(last accessed November 11, 2011).
 				<br>
 				<br>BBC News, &ldquo;A-Z Hack Attack,&rdquo; February 11, 2000, available at http://news.bbc.co.uk/2/hi/uk_news/639248.stm.
 				<br>
@@ -6606,42 +6606,42 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 				<br>BUILDER, &ldquo;Metasploit: Major Android Bug is a Privacy Disaster (CVE-2014-6041),&rdquo; <em>LinusTechTips,</em> September 15, 2014, available at http://linustechtips.com/main/topic/216087-metasploit-major-android-bug-is-a-privacy-disastercve-2014-6041/.
 				<br>
-				<br>P. Ducklin, &ldquo;&lsquo;Shocking&rsquo; Android browser bug could be a &ldquo;privacy disaster&rdquo;: here&rsquo;s how to fix it,&rdquo; <em>Naked Security</em>, September 16, 2014, available at http://nakedsecurity. sophos.com/2014/09/16/shocking-android-browser-bugcould-be-a-privacy-disaster-heres-how-to-fix-it/.
+				<br>P. Ducklin, &ldquo;&lsquo;Shocking&rsquo; Android browser bug could be a &ldquo;privacy disaster&rdquo;: here&rsquo;s how to fix it,&rdquo; <em>Naked Security</em>, September 16, 2014, available at http://nakedsecurity.sophos.com/2014/09/16/shocking-android-browser-bugcould-be-a-privacy-disaster-heres-how-to-fix-it/.
 				<br>
-				<br>T. Brewster, &ldquo;Widespread Android Vulnerability &lsquo;A Privacy Disaster,&rsquo; Claim Researchers,&rdquo; <em>Forbes</em>, September 16, 2014, available at http://www.forbes.com/ sites/thomasbrewster/2014/09/16/widespread-androidvulnerability-a-privacy-disaster-claim-researchers/.
+				<br>T. Brewster, &ldquo;Widespread Android Vulnerability &lsquo;A Privacy Disaster,&rsquo; Claim Researchers,&rdquo; <em>Forbes</em>, September 16, 2014, available at http://www.forbes.com/sites/thomasbrewster/2014/09/16/widespread-androidvulnerability-a-privacy-disaster-claim-researchers/.
 				<br>
-				<br>E. Kovacs, &ldquo;Dangerous &lsquo;Same Origin Policy&rsquo; Bypass Flaw Found in Android Browser,&rdquo; <em>Security Week</em>, September 16, 2014, available at http://www.securityweek.com/ dangerous-same-origin-policy-bypass-flaw-foundandroid-browser.
+				<br>E. Kovacs, &ldquo;Dangerous &lsquo;Same Origin Policy&rsquo; Bypass Flaw Found in Android Browser,&rdquo; <em>Security Week</em>, September 16, 2014, available at http://www.securityweek.com/dangerous-same-origin-policy-bypass-flaw-foundandroid-browser.
 				<br>
 				<br>L. Constantin, &ldquo;Many Android devices vulnerable to session hijacking through the default browser,&rdquo; <em>Computer World</em>, September 16, 2014, available at http://www.computerworld.com/article/2684059/many-androiddevices-vulnerable-to-session-hijacking-through-thedefault-browser.html.
 				<br>
-				<br>NDTV Correspondent, &ldquo;Android Browser Security Hole Affects Millions of Users, Says Expert,&rdquo; <em>Gadgets360</em>, September 16, 2014, available at http://gadgets.ndtv.com/ mobiles/news/android-browser-security-hole-affectsmillions-of-users-says-expert-592578.
+				<br>NDTV Correspondent, &ldquo;Android Browser Security Hole Affects Millions of Users, Says Expert,&rdquo; <em>Gadgets360</em>, September 16, 2014, available at http://gadgets.ndtv.com/mobiles/news/android-browser-security-hole-affectsmillions-of-users-says-expert-592578.
 				<br>
-				<br>H. Bray, &ldquo;Rapid7 of Boston warns of Android flaw,&rdquo; <em>Boston Globe</em>, September 15, 2014, available at http://www. bostonglobe.com/business/2014/09/15/rapid-boston-findsandroid-flaw/JJ9iHJB6YTcs10a7O9TjpN/story.html.
+				<br>H. Bray, &ldquo;Rapid7 of Boston warns of Android flaw,&rdquo; <em>Boston Globe</em>, September 15, 2014, available at http://www.bostonglobe.com/business/2014/09/15/rapid-boston-findsandroid-flaw/JJ9iHJB6YTcs10a7O9TjpN/story.html.
 				<br>
-				<br>S. Malhotra, &ldquo;Android security flaw affects millions of users,&rdquo; <em>digit</em>, September 16, 2014, available at http://www. digit.in/mobile-phones/android-security-flaw-affectsmillions-of-users-23921.html.
+				<br>S. Malhotra, &ldquo;Android security flaw affects millions of users,&rdquo; <em>digit</em>, September 16, 2014, available at http://www.digit.in/mobile-phones/android-security-flaw-affectsmillions-of-users-23921.html.
 				<br>
-				<br>A. Friedman, &ldquo;Android bug called a &lsquo;privacy disaster,&rsquo;&rdquo; <em>Phone Arena,</em> September 16, 2014, available at http://www. phonearena.com/news/New-Android-bug-called-a-privacydisaster_id60750.
+				<br>A. Friedman, &ldquo;Android bug called a &lsquo;privacy disaster,&rsquo;&rdquo; <em>Phone Arena,</em> September 16, 2014, available at http://www.phonearena.com/news/New-Android-bug-called-a-privacydisaster_id60750.
 				<br>
-				<br>D. Walker, &ldquo;Android bug allowing SOP bypass a &lsquo;privacy disaster,&rsquo; researcher warns,&rdquo; <em>SC Magazine</em>, September 16, 2014, available at http://www.scmagazine.com/android-bugallowing-sop-bypass-a-privacy-disaster-researcher-warns/ article/371917/.
+				<br>D. Walker, &ldquo;Android bug allowing SOP bypass a &lsquo;privacy disaster,&rsquo; researcher warns,&rdquo; <em>SC Magazine</em>, September 16, 2014, available at http://www.scmagazine.com/android-bugallowing-sop-bypass-a-privacy-disaster-researcher-warns/article/371917/.
 				<br>
-				<br>P. Bright, &ldquo;Android Browser flaw a &lsquo;privacy disaster&rsquo; for half of Android users,&rdquo; <em>Ars Technica</em>, September 17, 2014, available at http://arstechnica.com/security/2014/09/ android-browser-flaw-a-privacy-disaster-for-half-ofandroid-users/.
+				<br>P. Bright, &ldquo;Android Browser flaw a &lsquo;privacy disaster&rsquo; for half of Android users,&rdquo; <em>Ars Technica</em>, September 17, 2014, available at http://arstechnica.com/security/2014/09/android-browser-flaw-a-privacy-disaster-for-half-ofandroid-users/.
 				<br>
-				<br>M. Kumar, &ldquo;New Android Browser Vulnerability Is a &lsquo;Privacy Disaster&rsquo; for 70% Of Android Users,&rdquo; <em>Hacker News</em>, September 16, 2014, available at http://thehackernews. com/2014/09/new-android-browser-vulnerability-is.html.
+				<br>M. Kumar, &ldquo;New Android Browser Vulnerability Is a &lsquo;Privacy Disaster&rsquo; for 70% Of Android Users,&rdquo; <em>Hacker News</em>, September 16, 2014, available at http://thehackernews.com/2014/09/new-android-browser-vulnerability-is.html.
 				<br>
 				<br>A. Alizar, &ldquo;AOSP Browser SOP,&rdquo; <em>Xakep,</em> September 18, 2014, available at <a href="http://xakep.ru/news/aosp-browser-sop/"><u>http://xakep.ru/news/aosp-browser-sop/</u></a>.
 				<br>
-				<br>S. Huang, &ldquo;Same Origin Policy Bypass Vulnerability Has Wider Reach Than Thought on TREND MICRO,&rdquo; <em>Security Intelligence Blog</em> (September 29, 2014), available at http:// blog.trendmicro.com/trendlabs-security-intelligence/sameorigin-policy-bypass-vulnerability-has-wider-reach-thanthought/.
+				<br>S. Huang, &ldquo;Same Origin Policy Bypass Vulnerability Has Wider Reach Than Thought on TREND MICRO,&rdquo; <em>Security Intelligence Blog</em> (September 29, 2014), available at http://blog.trendmicro.com/trendlabs-security-intelligence/sameorigin-policy-bypass-vulnerability-has-wider-reach-thanthought/.
 				<br>
-				<br>Urdu Point, September 17, 2014, available at http://daily. urdupoint.com/livenews/2014-09-17/news-303641.html.
+				<br>Urdu Point, September 17, 2014, available at http://daily.urdupoint.com/livenews/2014-09-17/news-303641.html.
 				<br>
-				<br>Daily Pakistan, September 17, 2014, available at http:// dailypakistan.com.pk/daily-bites/17-Sep-2014/144263.
+				<br>Daily Pakistan, September 17, 2014, available at http://dailypakistan.com.pk/daily-bites/17-Sep-2014/144263.
 				<br>
 				<br>F. Baloch, &ldquo;Online Security: Pakistani helps Google avoid privacy disaster,&rdquo; <em>The Express</em>
 				<em>Tribune</em>, September 20, 2014, available at <u>http://tribune.com.pk/story/764713/onlinesecurity-pakistani-helps-google-avoid-privacy-disaster/</u>.
 				<br>
 				<br>DAWN, &ldquo;Pakistani researcher reveals privacy flaw in Android browsers,&rdquo; <em>Dawn</em>, September 20, 2014, available at <u>http://www.dawn.com/news/1133178/pakistani-researcherreveals-privacy-flaw-in-android-browsers</u>.
 				<br>
-				<br>Express Tribune, &ldquo;Credit to our white-hats,&rdquo; <em>Express Tribune</em>, September 21, 2014, available at http://tribune.com.pk/ story/764925/credit-to-our-white-hats/.
+				<br>Express Tribune, &ldquo;Credit to our white-hats,&rdquo; <em>Express Tribune</em>, September 21, 2014, available at http://tribune.com.pk/story/764925/credit-to-our-white-hats/.
 				<br>
 				<br>S. Talal, &ldquo;Pakistani Researcher Helps Google in Preventing a Massive Security Disaster, <em>ProPakistani</em>, 2014, available at <u>http://propakistani.pk/2014/09/23/pakistani-researcherhelps-google-preventing-massive-security-disaster/</u>.
 				<br>

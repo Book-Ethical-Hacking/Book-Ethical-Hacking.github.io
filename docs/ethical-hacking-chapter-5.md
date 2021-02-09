@@ -31,7 +31,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 ## Select Ethical-Hacking Incidences: Anonymous 
 
-One of the most well-known ethical-hacking “groups” is Anonymous. The word group here is arguably used incorrectly as Anonymous is more like an umbrella name or a movement for a plethora of smaller groups and operations. In addition to performing denial-of-service attacks, members of some of the smaller groups participate in more sophisticated forms of hacktivism that require a higher range of computer skills. Instances of these more sophisticated attacks include the release of names and details of the Mexican drug cartel, Los Zetas, the names and details of individuals who use childpornography sites, and the capturing of secret documents held by governments around the world—some of these documents are then given and released by WikiLeaks.
+One of the most well-known ethical-hacking “groups” is Anonymous. The word group here is arguably used incorrectly as Anonymous is more like an umbrella name or a movement for a plethora of smaller groups and operations. In addition to performing denial-of-service attacks, members of some of the smaller groups participate in more sophisticated forms of hacktivism that require a higher range of computer skills. Instances of these more sophisticated attacks include the release of names and details of the Mexican drug cartel, Los Zetas, the names and details of individuals who use child pornography sites, and the capturing of secret documents held by governments around the world—some of these documents are then given and released by WikiLeaks.
 
 Hacktivism is not limited to attacking information systems and retrieving documents. It also extends to finding technical solutions to mobilize people. At the height of the Egyptian e-revolution the major Internet-service providers and mobile-phone companies, under government direction, shut down the Internet, flipping the so-called Internet kill switch, preventing people from using the Internet and mobile phones. This, in turn, affected people’s ability to mobilize. Anonymous worked around the clock to ensure that images from the revolution were still sent to international media.
 
@@ -75,7 +75,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 				<br>
 				<br>&ldquo;Operation Titstorm&mdash;Anonymous Wants Their Small Boobs&rdquo; (February 12, 2010), available at <a href="http://www.youtube.com/watch?v=FdPmbiK4JGY"><u>http://www.youtube.com/watch?v=FdPmbiK4JGY</u></a>.
 				<br>
-				<br>&ldquo;Anonymous Message to the Australian Government&rdquo; (February 14, 2010), available at http://www.youtube.com/ watch?v=yK1nsGFsvbo.
+				<br>&ldquo;Anonymous Message to the Australian Government&rdquo; (February 14, 2010), available at http://www.youtube.com/watch?v=yK1nsGFsvbo.
 				<br>
 			</td>
 		</tr>
@@ -239,7 +239,7 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			<td valign="top">J. Leyden, &ldquo;Anonymous attacks PayPal in &lsquo;Operation Avenge Assange,&rsquo;&rdquo; <em>The Register</em>, December 6, 2010, available at <a href="http://www.theregister.co.uk/2010/12/06/"><u>http://www.theregister.co.uk/2010/12/06/</u></a>anonymous_launches_pro_wikileaks_campaign/.
 				<br>
 				<br>
-				<br>M. Raman, &ldquo;FBI Cracks Down on &lsquo;Anonymous&rsquo; Over PayPal Hacking, Arrests 14,&rdquo; <em>International Business</em> Times, July 20, 2011, available at https://www.ibtimes.com/ fbi-cracks-down-anonymous-over-paypal-hackingarrests-14-300225 (last accessed July 21, 2011).
+				<br>M. Raman, &ldquo;FBI Cracks Down on &lsquo;Anonymous&rsquo; Over PayPal Hacking, Arrests 14,&rdquo; <em>International Business</em> Times, July 20, 2011, available at https://www.ibtimes.com/fbi-cracks-down-anonymous-over-paypal-hackingarrests-14-300225 (last accessed July 21, 2011).
 				<br>
 				<br>
 				<br>US Department of Justice, Office of Public Affairs, &ldquo;Sixteen Individuals Arrested in the United States for Alleged Roles in Cyber Attacks&rdquo; (press release, July 19, 2011), available at http://www.fbi.gov/news/pressrel/press-releases/sixteenindividuals-arrested-in-the-united-states-for-alleged-rolesin-cyber-attacks (last accessed November 10, 2011).
@@ -502,9 +502,9 @@ This chapter takes selected notable ethical-hacking incidences from the quantita
 			</td>
 			<td valign="top">E-Li, &ldquo;Anti-Gay Website Hacked by Anonymous,&rdquo; <em>lezbelib. over-blog.com</em>, June 4, 2011, available at http://lezbelib.over-blog.com/article-anti-gay-website-hacked-byanonymous-75636306.html (last accessed June 5, 2011).
 				<br>
-				<br>&ldquo;Anonymous v. Westboro Baptists&rdquo; (February 22, 2011), available at http://www.youtube.com/watch?v=jUcW_ 8Ya32Q.
+				<br>&ldquo;Anonymous v. Westboro Baptists&rdquo; (February 22, 2011), available at http://www.youtube.com/watch?v=jUcW_8Ya32Q.
 				<br>
-				<br>&ldquo;Anonymous Hacks Westboro Baptist Church During LIVE&rdquo; (February 24, 2011), available at http://www.youtube. com/watch?v=OZJwSjor4hM.
+				<br>&ldquo;Anonymous Hacks Westboro Baptist Church During LIVE&rdquo; (February 24, 2011), available at http://www.youtube.com/watch?v=OZJwSjor4hM.
 				<br>
 				<br>&ldquo;Anonymous Members Allegedly Unmasked, Involved in Westboro Baptist Church Hacking Incident&rdquo; (June 21, 2011), available at http://www.youtube.com/watch?v=QBExfh1oZCs.
 				<br>
@@ -1329,7 +1329,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 				<br>
 				<br>X. Jardin, &ldquo;Anonymous hacks BART after wireless shutdown; protests planned for Monday,&rdquo; <em>Boing Boing,</em> August 14, 2011, available at http://boingboing.net/2011/08/14/anonymous-hacks-bart-after-wirelessshutdown-protests-planned-for-monday.html.
 				<br>
-				<br>&ldquo;Website for BART customers hacked by Anonymous&rdquo; (ABC News [US], August 15, 2011), available at http://www. youtube.com/watch?v=DjFSq-aTMm8&amp;feature=related.
+				<br>&ldquo;Website for BART customers hacked by Anonymous&rdquo; (ABC News [US], August 15, 2011), available at http://www.youtube.com/watch?v=DjFSq-aTMm8&amp;feature=related.
 				<br>
 			</td>
 		</tr>
@@ -1494,7 +1494,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			</td>
 			<td valign="top"><em>Jerusalem Post</em>, &ldquo;Online activists hack into Syrian government websites,&rdquo; September 26, 2011, available at https://www.jpost.com/Middle-East/Online-activistshack-into-Syrian-government-websites (last accessed September 27, 2011).
 				<br>
-				<br>Anonymous&mdash;Operation Syria (September 12, 2011), available at http://www.youtube.com/watch?v=MG fF1ixk7S0.
+				<br>Anonymous&mdash;Operation Syria (September 12, 2011), available at http://www.youtube.com/watch?v=MGfF1ixk7S0.
 				<br>
 				<br>&ldquo;Activists deface Syrian official websites&rdquo; (Al Jazeera English, September 26, 2011), available at http://www.youtube.com/watch?v=qX30M6gakQ4.
 				<br>
@@ -1828,7 +1828,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			<td valign="top">November 4, 2011
 				<br>
 			</td>
-			<td valign="top">S. Seltzer, &ldquo;For-Profit Company Oversaw Davis&rsquo;s Execution, Had Prompted Complaint for Illegal Purchase of Lethal Injection Drugs,&rdquo;<em>&nbsp;Alternet</em>, August 22, 2011, available at http://www.alternet.org/newsandviews/article/670237/for-profit_company_oversaw_davis%27s_execution,_had_prompted_complaint_for_illegal_purchase_of_lethal_ injection_drugs/.
+			<td valign="top">S. Seltzer, &ldquo;For-Profit Company Oversaw Davis&rsquo;s Execution, Had Prompted Complaint for Illegal Purchase of Lethal Injection Drugs,&rdquo;<em>&nbsp;Alternet</em>, August 22, 2011, available at http://www.alternet.org/newsandviews/article/670237/for-profit_company_oversaw_davis%27s_execution,_had_prompted_complaint_for_illegal_purchase_of_lethal_injection_drugs/.
 				<br>
 				<br>AnonNews, &ldquo;Operation Rainbow Dark,&rdquo; previously available at http://anonnews.org/?p=press&amp;a=item&amp;i=1162 (last accessed January 5, 2012).
 				<br>
@@ -2566,7 +2566,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			</td>
 			<td valign="top">F. Bajak, &ldquo;Anonymous Hackers Claim They Were Infiltrated,&rdquo; Bellingham Herald, February 29, 2012, available at http://bellinghamherald.com/2012/02/29/2415830/anonymous-hackers-claim-they-were.html.
 				<br>
-				<br>S. McCaskill, &ldquo;Anonymous Targets Vatican Website,&rdquo; Tech Week Europe, March 8, 2012, available at http://www. techweekeurope.co.uk/news/anonymous-targets-vaticanwebsite-65797.
+				<br>S. McCaskill, &ldquo;Anonymous Targets Vatican Website,&rdquo; Tech Week Europe, March 8, 2012, available at http://www.techweekeurope.co.uk/news/anonymous-targets-vaticanwebsite-65797.
 				<br>
 			</td>
 		</tr>
@@ -3125,7 +3125,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">M. Broersma, &ldquo;Anonymous Claims Home Office Website Takedown,&rdquo; Tech Week Europe, April 8, 2012, available at http://www.techweekeurope.co.uk/news/ anonymous-home-office-ddos-71886
+			<td valign="top">M. Broersma, &ldquo;Anonymous Claims Home Office Website Takedown,&rdquo; Tech Week Europe, April 8, 2012, available at http://www.techweekeurope.co.uk/news/anonymous-home-office-ddos-71886
 				<br>
 			</td>
 		</tr>
@@ -3258,7 +3258,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			</td>
 			<td valign="top">Commandeered federal websites, threatened to release government information, distributed files, and demanded legal reform.
 				<br>
-				<br>&ldquo;Anonymous Operation Last Resort Video&rdquo; (January 26, 2013), available at http://www.youtube.com/watch?v= WaPni5O2YyI.
+				<br>&ldquo;Anonymous Operation Last Resort Video&rdquo; (January 26, 2013), available at http://www.youtube.com/watch?v=WaPni5O2YyI.
 				<br>
 			</td>
 		</tr>
@@ -3305,7 +3305,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			<td valign="top">Motivation:
 				<br>
 			</td>
-			<td valign="top">Mixed motivations&mdash;protest over UK government&rsquo;s websurveillance plans, protest over UK&rsquo;s extradition treaty with the United States.
+			<td valign="top">Mixed motivations&mdash;protest over UK government&rsquo;s web-surveillance plans, protest over UK&rsquo;s extradition treaty with the United States.
 				<br>
 			</td>
 		</tr>
@@ -3801,7 +3801,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">L. Constantin, &ldquo;U.K. spy agency attacked hacktivist groups<em>,&rdquo; Computer World</em>, February 5, 2014, available at http://www.computerworld.com/article/2487354/ cybercrime-hacking/u-k--spy-agency-attacked-hacktivistgroups.html
+			<td valign="top">L. Constantin, &ldquo;U.K. spy agency attacked hacktivist groups<em>,&rdquo; Computer World</em>, February 5, 2014, available at http://www.computerworld.com/article/2487354/cybercrime-hacking/u-k--spy-agency-attacked-hacktivistgroups.html
 				<br>
 			</td>
 		</tr>
@@ -3878,7 +3878,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">K. Baker, &ldquo;Hacking group Anonymous to target paedophiles using the &lsquo;dark web&rsquo; to carry out child abuse,&rdquo; <em>Daily Mail</em>, January 25, 2015, available at http://www. dailymail.co.uk/news/article-2924864/Hacking-groupAnonymous-target-paedophiles.html.
+			<td valign="top">K. Baker, &ldquo;Hacking group Anonymous to target paedophiles using the &lsquo;dark web&rsquo; to carry out child abuse,&rdquo; <em>Daily Mail</em>, January 25, 2015, available at http://www.dailymail.co.uk/news/article-2924864/Hacking-groupAnonymous-target-paedophiles.html.
 				<br>
 				<br>L. Eleftheriou-Smith, &ldquo;Anonymous calls for activists to help expose international paedophile networks with &lsquo;Operation DeathEaters,&rsquo;&rdquo; Independent, January 23, 2015, available at http://www.independent.co.uk/news/uk/home-news/anonymous-calls-for-activists-to-help-exposeinternational-paedophile-networks-with-operationdeatheaters-9998350.html.
 				<br>
@@ -4146,7 +4146,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">O. Solon, &ldquo;Anonymous &lsquo;hacktivists&rsquo; attack ISIS&mdash;strike down terrorist propaganda and recruitment sites,&rdquo; Mirror, February 9, 2015, available at http://www. <em>mirror</em>.co.uk/news/technology-science/technology/anonymous-hacktivists-attack-isis---5130966.
+			<td valign="top">O. Solon, &ldquo;Anonymous &lsquo;hacktivists&rsquo; attack ISIS&mdash;strike down terrorist propaganda and recruitment sites,&rdquo; Mirror, February 9, 2015, available at http://www.mirror.co.uk/news/technology-science/technology/anonymous-hacktivists-attack-isis---5130966.
 				<br>
 				<br>L. Franceschi-Bicchierai, &ldquo;Anonymous claims first victim in &lsquo;Operation Charlie Hebdo,&rsquo;&rdquo; Mashable, January 11, 2015, available at http://mashable.com/2015/01/10/anonymous-operation-charlie-hebdo/.
 				<br>
@@ -4306,7 +4306,7 @@ Additional important information:	"Interesting that Anonymous attacked a law fir
 			<td valign="top">Source:
 				<br>
 			</td>
-			<td valign="top">M. Broersma, &ldquo;Hacker Pleads Guilty to Abortion Website Attack,&rdquo; <em>Tech Week Europe</em>, March 12, 2012, available at http://www.techweekeurope.co.uk/news/ hacker-pleads-guilty-to-abortion-website-attack-66295.
+			<td valign="top">M. Broersma, &ldquo;Hacker Pleads Guilty to Abortion Website Attack,&rdquo; <em>Tech Week Europe</em>, March 12, 2012, available at http://www.techweekeurope.co.uk/news/hacker-pleads-guilty-to-abortion-website-attack-66295.
 				<br>
 				<br>P. Gallagher, &ldquo;Abortion Website Hacker Caught,&rdquo; <em>Guardian</em>, March 11, 2012, available at http://www.guardian.co.uk/world/2012/mar/11/abortion-website-hacker-caught.
 				<br>

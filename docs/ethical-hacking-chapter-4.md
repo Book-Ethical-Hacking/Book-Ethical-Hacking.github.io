@@ -85,7 +85,7 @@ The defendant was arrested after allegedly accessing and providing classified US
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">Wikipedia, <em>United States v. Bradley Manning</em> (July 25 2018) http://en.wikipedia.org/wiki/United_States_v._Bradley_ Manning.
+			<td valign="top">Wikipedia, <em>United States v. Bradley Manning</em> (July 25 2018) http://en.wikipedia.org/wiki/United_States_v._Bradley_Manning.
 				<br>
 				<br>United States Division&mdash;Center, &ldquo;Soldier Faces Criminal Charges&rdquo; (media release, no. 20100706-01, July 6, 2010).
 				<br>
@@ -196,9 +196,9 @@ An Anonymous-affiliated Connecticut man, Poe (handle: “spydr101”), was arres
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">J. Zand, &ldquo;Indictment Alleges DDoS Attack on Gene Simmons&rsquo; Web Site by Anonymous Supporter&rdquo; on <em>Justia Law Blog</em> (December 14, 2011), available at http://techlaw. justia.com/2011/12/14/indictment-alleges-ddos-attack-ongene-simmons-web-site/.
+			<td valign="top">J. Zand, &ldquo;Indictment Alleges DDoS Attack on Gene Simmons&rsquo; Web Site by Anonymous Supporter&rdquo; on <em>Justia Law Blog</em> (December 14, 2011), available at http://techlaw.justia.com/2011/12/14/indictment-alleges-ddos-attack-ongene-simmons-web-site/.
 				<br>
-				<br>J. Halliday, &ldquo;Gene Simmons gets kiss of death from notorious web forum,&rdquo; <em>Guardian</em>, October 14, 2010, available at http://www.guardian.co.uk/technology/blog/2010/oct/14/ gene-simmons-anonymous-attack-filesharing.
+				<br>J. Halliday, &ldquo;Gene Simmons gets kiss of death from notorious web forum,&rdquo; <em>Guardian</em>, October 14, 2010, available at http://www.guardian.co.uk/technology/blog/2010/oct/14/gene-simmons-anonymous-attack-filesharing.
 				<br>
 				<br>The Smoking Gun, &ldquo;Plea Deal Struck Over Attack on Kiss Web Sites,&rdquo; February 5, 2013, available at http://www.thesmokinggun.com/documents/genesimmons-ddos-plea-587912.
 				<br>
@@ -307,9 +307,9 @@ An Anonymous-affiliated Connecticut man, Poe (handle: “spydr101”), was arres
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">FBI, &ldquo;Member of Hacking Group LulzSec Arrested for June 2011 Intrusion of Sony Pictures Computer Systems&rdquo; (press release, September 22, 2011), available at http://www. fbi.gov/losangeles/press-releases/2011/member-of-hackinggroup-lulzsec-arrested-for-june-2011-intrusion-of-sonypictures-computer-systems (last accessed October 20, 2011).
+			<td valign="top">FBI, &ldquo;Member of Hacking Group LulzSec Arrested for June 2011 Intrusion of Sony Pictures Computer Systems&rdquo; (press release, September 22, 2011), available at http://www.fbi.gov/losangeles/press-releases/2011/member-of-hackinggroup-lulzsec-arrested-for-june-2011-intrusion-of-sonypictures-computer-systems (last accessed October 20, 2011).
 				<br>
-				<br>C. Arthur, &ldquo;Alleged LulzSec hacker of Sony Pictures faces trial data in December,&rdquo; <em>Guardian</em>, October 18, 2011, &nbsp;available at http://www.guardian.co.uk/technology/2011/ oct/18/lulzsec-alleged-recursion-hacker-trial.
+				<br>C. Arthur, &ldquo;Alleged LulzSec hacker of Sony Pictures faces trial data in December,&rdquo; <em>Guardian</em>, October 18, 2011, &nbsp;available at http://www.guardian.co.uk/technology/2011/oct/18/lulzsec-alleged-recursion-hacker-trial.
 				<br>
 				<br>D. Whitcomb, &ldquo;Hacker Gets a Year in Prison for Sony Attack,&rdquo; <em>Sydney Morning Herald</em>, April 19, 2013, available at https://www.smh.com.au/technology/hacker-gets-a-yearin-prison-for-sony-attack-20130419-2i4hl.html.
 				<br>
@@ -418,13 +418,13 @@ An Anonymous-affiliated Connecticut man, Poe (handle: “spydr101”), was arres
 			</td>
 			<td valign="top">FBI, &ldquo;Two Men Charged in New Jersey with Hacking AT&amp;T&rsquo;s Servers&rdquo; (press release, January 18, 2011), http://www.fbi.gov/newark/press-releases/2011/nk011811.htm.
 				<br>
-				<br>Criminal Complaint: http://www.justice.gov/usao/nj/Press/files/pdffiles/2011/ Spitler,%20Daniel%20et%20al.%20Complaint.pdf.
+				<br>Criminal Complaint: http://www.justice.gov/usao/nj/Press/files/pdffiles/2011/Spitler,%20Daniel%20et%20al.%20Complaint.pdf.
 				<br>
-				<br>E. Mills, &ldquo;AT&amp;T-iPad hacker pleads guilty to computer charges,&rdquo; Cnet, June 23, 2011, available at http://news.cnet.com/8301-27080_3-20073791-245/ at-t-ipad-hacker-pleads-guilty-to-computer-charges/.
+				<br>E. Mills, &ldquo;AT&amp;T-iPad hacker pleads guilty to computer charges,&rdquo; Cnet, June 23, 2011, available at http://news.cnet.com/8301-27080_3-20073791-245/at-t-ipad-hacker-pleads-guilty-to-computer-charges/.
 				<br>
-				<br>E. Mills, &ldquo;AT&amp;T-iPad site hacker to fight on in court (exclusive),&rdquo; Cnet, September 12, 2011, available at http://news.cnet.com/8301-27080_3-20105097-245/ at-t-ipad-site-hacker-to-fight-on-in-court-exclusive/.
+				<br>E. Mills, &ldquo;AT&amp;T-iPad site hacker to fight on in court (exclusive),&rdquo; Cnet, September 12, 2011, available at http://news.cnet.com/8301-27080_3-20105097-245/at-t-ipad-site-hacker-to-fight-on-in-court-exclusive/.
 				<br>
-				<br>T. McCarthy, &ldquo;Andrew Auernheimer&rsquo;s conviction over computer fraud thrown out,&rdquo; Guardian, April 12, 2014, available at https://www.theguardian.com/technology/ 2014/apr/11/andrew-auernheimers-weev-convictionvacated-hacking.
+				<br>T. McCarthy, &ldquo;Andrew Auernheimer&rsquo;s conviction over computer fraud thrown out,&rdquo; Guardian, April 12, 2014, available at https://www.theguardian.com/technology/2014/apr/11/andrew-auernheimers-weev-convictionvacated-hacking.
 				<br>
 			</td>
 		</tr>
@@ -535,7 +535,7 @@ This was a petition by Twitter users to vacate the so-called Twitter Order grant
 			</td>
 			<td valign="top">ACLU Virginia, In re &sect; 2703(d) Orders, available at https://acluva.org/en/cases/re-ss2703d-orders.
 				<br>
-				<br>Electronic Privacy Information Center, <em>In re Twitter Order Pursuant to 2703(d)</em> https://www.epic.org/amicus/twitter/ wikileaks/.
+				<br>Electronic Privacy Information Center, <em>In re Twitter Order Pursuant to 2703(d)</em> https://www.epic.org/amicus/twitter/wikileaks/.
 				<br>
 				<br>Justia US Law, <em>In re: 2703(d) Application, No. 11-5151</em> (Fourth Cir. 2013) https://law.justia.com/cases/federal/appellatecourts/ca4/11-5151/11-5151-2013-01-25.html
 				<br>
@@ -647,7 +647,7 @@ In December 2013, fourteen individuals connected with Anonymous were arrested in
 				<br>
 				<br>US Attorney&rsquo;s Office, Northern District of California, &ldquo;Thirteen Defendants Plead Guilty For December 2010 Cyber-Attack Against PayPal&rdquo; (press release, December 6, 2013), available at http://www.justice.gov/usao/can/news/2013/2013_12_06_thirteen.guiltyplea.press.html.
 				<br>
-				<br>D. Lucas, &ldquo;Exclusive: The Legendary #Anonymous PayPal 14 Speak Out Post-Sentencing,&rdquo; Cryptosphere, October 31, 2014, available at https://thecryptosphere.com/2014/10/31/ exclusive-the-anonymous-paypal-14-speak-out-postsentencing/.
+				<br>D. Lucas, &ldquo;Exclusive: The Legendary #Anonymous PayPal 14 Speak Out Post-Sentencing,&rdquo; Cryptosphere, October 31, 2014, available at https://thecryptosphere.com/2014/10/31/exclusive-the-anonymous-paypal-14-speak-out-postsentencing/.
 				<br>
 			</td>
 		</tr>
@@ -657,7 +657,7 @@ In December 2013, fourteen individuals connected with Anonymous were arrested in
 			</td>
 			<td style="width: 82.1613%;" valign="top">California charges: conspiracy and intentional damage to a protected computer.
 				<br>
-				<br>For indictment, see http://ia600502.us.archive.org/24/items/ gov.uscourts.cand.242989/gov.uscourts.cand.242989.1.0.pdf.
+				<br>For indictment, see http://ia600502.us.archive.org/24/items/gov.uscourts.cand.242989/gov.uscourts.cand.242989.1.0.pdf.
 				<br>
 			</td>
 		</tr>
@@ -781,7 +781,7 @@ This case concerns a hacker that obtained evidence that the defendant, Steiger, 
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">Case: Available at http://scholar.google.com.au/scholar_ case?case=5611821785646747519
+			<td valign="top">Case: Available at http://scholar.google.com.au/scholar_case?case=5611821785646747519
 				<br>
 			</td>
 		</tr>
@@ -839,7 +839,7 @@ This case concerns a hacker that obtained evidence that the defendant, Steiger, 
 			</td>
 			<td valign="top">For a search by a private person to implicate the fourth amendment, the person must act as an instrument or agent of the government.
 				<br>
-				<br>In 2006, the defendant attempted to convince the court of a motion for a new trial, but failed. As a result, the 2003 judgment still stands (see https://www.gpo.gov/fdsys/pkg/ USCOURTS-almd-2_00-cr-00170/pdf/USCOURTS-almd2_00-cr-00170-0.pdf).
+				<br>In 2006, the defendant attempted to convince the court of a motion for a new trial, but failed. As a result, the 2003 judgment still stands (see https://www.gpo.gov/fdsys/pkg/USCOURTS-almd-2_00-cr-00170/pdf/USCOURTS-almd2_00-cr-00170-0.pdf).
 				<br>
 			</td>
 		</tr>
@@ -888,7 +888,7 @@ This case concerns a hacker that obtained evidence that the defendant was produc
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">Case: http://scholar.google.com.au/scholar_case?case= 7704360326371177621
+			<td valign="top">Case: http://scholar.google.com.au/scholar_case?case=7704360326371177621
 				<br>
 			</td>
 		</tr>
@@ -993,11 +993,11 @@ Raynaldo Rivera, of Tempe, Arizona—who allegedly used the online nicknames of 
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">C. Arthur, &ldquo;LulzSec Hacker Arrested Over Sony Attack,&rdquo; <em>Guardian</em>, August 29, 2012, available at http:// www.guardian.co.uk/technology/2012/aug/29/ lulzsec-hacker-arrest-sony-attack.
+			<td valign="top">C. Arthur, &ldquo;LulzSec Hacker Arrested Over Sony Attack,&rdquo; <em>Guardian</em>, August 29, 2012, available at http://www.guardian.co.uk/technology/2012/aug/29/lulzsec-hacker-arrest-sony-attack.
 				<br>
 				<br>Plea agreement, FreeAnons <a href="https://freeanons.org/wpcontent/uploads/court-documents/Raynaldo-Rivera.pdf"><u>https://freeanons.org/wpcontent/uploads/court-documents/Raynaldo-Rivera.pdf</u></a>.
 				<br>
-				<br>FBI, &ldquo;Second Member of Hacking Group Sentenced to More Than a Year in Prison for Stealing Customer Information from Sony Pictures Computers&rdquo; (FBI press release, August 8, 2013), available at https://archives. fbi.gov/archives/losangeles/press-releases/2013/ second-member-of-hacking-group-sentenced-to-morethan-a-year-in-prison-for-stealing-customer-informationfrom-sony-pictures-computers.
+				<br>FBI, &ldquo;Second Member of Hacking Group Sentenced to More Than a Year in Prison for Stealing Customer Information from Sony Pictures Computers&rdquo; (FBI press release, August 8, 2013), available at https://archives.fbi.gov/archives/losangeles/press-releases/2013/second-member-of-hacking-group-sentenced-to-morethan-a-year-in-prison-for-stealing-customer-informationfrom-sony-pictures-computers.
 				<br>
 			</td>
 		</tr>
@@ -1124,7 +1124,7 @@ Aaron Swartz was facing up to thirty-five years in jail for illegally downloadin
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">S. Farberov, H. Pow, and J. Nye, &ldquo;Revealed: Prosecutors turned down Reddit co-founder Aaron Swartz&rsquo;s request for plea deal over MIT hacking case TWO DAYS before his suicide,&rdquo; Daily Mail, January 14, 2013, available at http://www.dailymail.co.uk/news/article-2262137/ Aaron-Swartz-Reddit-founder-request-plea-deal-turnedMassachusetts-prosecutor.html#axzz2KkIHBHh6
+			<td valign="top">S. Farberov, H. Pow, and J. Nye, &ldquo;Revealed: Prosecutors turned down Reddit co-founder Aaron Swartz&rsquo;s request for plea deal over MIT hacking case TWO DAYS before his suicide,&rdquo; Daily Mail, January 14, 2013, available at http://www.dailymail.co.uk/news/article-2262137/Aaron-Swartz-Reddit-founder-request-plea-deal-turnedMassachusetts-prosecutor.html#axzz2KkIHBHh6
 				<br>
 			</td>
 		</tr>
@@ -1234,16 +1234,15 @@ British citizen Lauri Love is charged with hacking charges in the United States.
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">J. Halliday, &ldquo;Briton Lauri Love faces hacking charges in US,&rdquo; <em>Guardian</em>, October 29, 2013, available at http://www.theguardian.com/world/2013/oct/28/ us-briton-hacking-charges-nasa-lauri-love.
+			<td valign="top">J. Halliday, &ldquo;Briton Lauri Love faces hacking charges in US,&rdquo; <em>Guardian</em>, October 29, 2013, available at http://www.theguardian.com/world/2013/oct/28/us-briton-hacking-charges-nasa-lauri-love.
 				<br>
 				<br>BBC News, &ldquo;Lauri Love case: Hacking Suspect Wins Extradition Appeal,&rdquo; February 5, 2018, available at <a href="https://www.bbc.com/news/uk-england-42946540"><u>https://www.bbc.com/news/uk-england-42946540</u></a>.
 				<br>
-				<br>Indictment, https:/
-				<br>/www.scribd.com/doc/179595899/ Love-Lauri-Indictment.
+				<br>Indictment, https://www.scribd.com/doc/179595899/Love-Lauri-Indictment.
 				<br>
-				<br>Case (High Court of England and Wales), https://freelauri. com/wp-content/uploads/2018/02/lauri-love-v-usa.pdf.
+				<br>Case (High Court of England and Wales), https://freelauri.com/wp-content/uploads/2018/02/lauri-love-v-usa.pdf.
 				<br>
-				<br>D. Pauli, &ldquo;Aussies Hacked Pentagon, US Army, and Others,&rdquo; IT News, October 29, 2013, available at https://www.itnews. com.au/news/aussies-hacked-pentagon-us-army-andothers-362202.
+				<br>D. Pauli, &ldquo;Aussies Hacked Pentagon, US Army, and Others,&rdquo; IT News, October 29, 2013, available at https://www.itnews.com.au/news/aussies-hacked-pentagon-us-army-andothers-362202.
 				<br>
 			</td>
 		</tr>
@@ -1362,15 +1361,15 @@ Jeremy Hammond leaked millions of emails by Stratfor to WikiLeaks. The emails re
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">Case, http://www.justice.gov/usao/nys/pressreleases/ May13/HammondJeremyPleaPR/U.S.%20v.%20Jeremy%20 Hammond%20S2%20Information.pdf.
+			<td valign="top">Case, http://www.justice.gov/usao/nys/pressreleases/May13/HammondJeremyPleaPR/U.S.%20v.%20Jeremy%20Hammond%20S2%20Information.pdf.
 				<br>
 				<br>Additional legal documents related to Hammond&rsquo;s case, <a href="https://freejeremy.net/category/legal/"><u>https://freejeremy.net/category/legal/</u></a>.
 				<br>
-				<br>WikiLeaks, &ldquo;The Gifiles,&rdquo; https://wikileaks.org/the-gifiles. html.
+				<br>WikiLeaks, &ldquo;The Gifiles,&rdquo; https://wikileaks.org/the-gifiles.html.
 				<br>
-				<br>J. Kopstein, &ldquo;Hacker with a cause,&rdquo; New Yorker, November 21, 2013, available at http://www.newyorker.com/online/blogs/ elements/2013/11/jeremy-hammond-and-anonymoushacker-with-a-cause.html.
+				<br>J. Kopstein, &ldquo;Hacker with a cause,&rdquo; New Yorker, November 21, 2013, available at http://www.newyorker.com/online/blogs/elements/2013/11/jeremy-hammond-and-anonymoushacker-with-a-cause.html.
 				<br>
-				<br>E. Pilkington, &ldquo;Jeremy Hammond: FBI directed my attacks on foreign government sites,&rsquo;&rdquo; Guardian, November 16, 2013, available at http://www.theguardian.com/world/ 2013/nov/15/jeremy-hammond-fbi-directed-attacksforeign-government.
+				<br>E. Pilkington, &ldquo;Jeremy Hammond: FBI directed my attacks on foreign government sites,&rsquo;&rdquo; Guardian, November 16, 2013, available at http://www.theguardian.com/world/2013/nov/15/jeremy-hammond-fbi-directed-attacksforeign-government.
 				<br>
 			</td>
 		</tr>
@@ -1593,7 +1592,7 @@ This case was about an application for immediate access to all publicly availabl
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">Court order related to the documents, https://scholar. google.com.au/scholar_case?case=7165402973414950017&amp;q= Paracha+wikileaks&amp;hl=en&amp;as_sdt=2006&amp;as_vis=1#r[1].
+			<td valign="top">Court order related to the documents, https://scholar.google.com.au/scholar_case?case=7165402973414950017&amp;q=Paracha+wikileaks&amp;hl=en&amp;as_sdt=2006&amp;as_vis=1#r[1].
 				<br>
 				<br>Petitioner&rsquo;s (Paracha&rsquo;s) emergency application, <a href="https://fas.org/sgp/jud/par/042711-access.pdf"><u>https://fas.org/sgp/jud/par/042711-access.pdf</u></a>.
 				<br>
@@ -1704,9 +1703,9 @@ This case concerned an allegation that WikiLeaks “had wrongfully published on 
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">Case provided by the Electronic Frontiers Foundation at https://www.eff.org/files/filenode/baer_v_wikileaks/ wikileaks102.pdf
+			<td valign="top">Case provided by the Electronic Frontiers Foundation at https://www.eff.org/files/filenode/baer_v_wikileaks/wikileaks102.pdf
 				<br>
-				<br>ACLU Northern California, Bank Julius Baer &amp; Co. Ltd. v. WikiLeaks (March 6, 2008) https://www.aclunc.org/ our-work/legal-docket/bank-julius-baer-co-ltd-v-wikileaks.
+				<br>ACLU Northern California, Bank Julius Baer &amp; Co. Ltd. v. WikiLeaks (March 6, 2008) https://www.aclunc.org/our-work/legal-docket/bank-julius-baer-co-ltd-v-wikileaks.
 				<br>
 			</td>
 		</tr>
@@ -1820,7 +1819,7 @@ This case concerned an allegation that WikiLeaks “had wrongfully published on 
 			</td>
 			<td valign="top">Free Anons, &ldquo;Interview: Ryan Ackroyd AKA Kayla of LulzSec&rdquo; (April 15, 2014) <a href="https://freeanons.org/interviewryan-ackroyd-aka-kayla-lulzsec/"><u>https://freeanons.org/interviewryan-ackroyd-aka-kayla-lulzsec/</u></a>.
 				<br>
-				<br>S. Storm, &ldquo;London court: LulzSec hackers called &lsquo;latter day pirates&rsquo; at &lsquo;cutting-edge&rsquo; of cybercrime,&rdquo; Computer World, May 15, 2013, available at https://www.computerworld.com/ article/2475432/cybercrime-hacking/london-court--lulzsechackers-called--latter-day-pirates--at--cutting-edge-- of-cy.html.
+				<br>S. Storm, &ldquo;London court: LulzSec hackers called &lsquo;latter day pirates&rsquo; at &lsquo;cutting-edge&rsquo; of cybercrime,&rdquo; Computer World, May 15, 2013, available at https://www.computerworld.com/article/2475432/cybercrime-hacking/london-court--lulzsechackers-called--latter-day-pirates--at--cutting-edge--of-cy.html.
 				<br>
 			</td>
 		</tr>
@@ -1932,7 +1931,7 @@ The four men were each convicted of attacking anti-piracy and financial companie
 			<td valign="top">Main URL
 				<br>
 			</td>
-			<td valign="top">J. Halliday, &ldquo;Anonymous Teenager Hacker Spared Jail over Cyber Attacks,&rdquo; Guardian, February 1, 2013, available at http://www.guardian.co.uk/technology/2013/feb/01/ anonymous-teenage-hacker
+			<td valign="top">J. Halliday, &ldquo;Anonymous Teenager Hacker Spared Jail over Cyber Attacks,&rdquo; Guardian, February 1, 2013, available at http://www.guardian.co.uk/technology/2013/feb/01/anonymous-teenage-hacker
 				<br>
 			</td>
 		</tr>
@@ -2044,9 +2043,9 @@ Glenn Mangham impersonated an employee of the social-networking site Facebook wh
 			</td>
 			<td valign="top">E. Protalinski, &ldquo;British student jailed for hacking into Facebook,&rdquo; Zdnet, February 18, 2012, available at http://www.zdnet.com/blog/facebook/british-studentjailed-for-hacking-into-facebook/9244 (last accessed December 21, 2016).
 				<br>
-				<br>M. Mangham, &ldquo;The Facebook Hack: What Really Happened&rdquo; on GMangham Blog (April 23, 2012), available at http://gmangham.blogspot.co.uk/2012/04/ facebook-hack-what-really-happened.html (last accessed December 21, 2016).
+				<br>M. Mangham, &ldquo;The Facebook Hack: What Really Happened&rdquo; on GMangham Blog (April 23, 2012), available at http://gmangham.blogspot.co.uk/2012/04/facebook-hack-what-really-happened.html (last accessed December 21, 2016).
 				<br>
-				<br>Case (Court of Appeal), http://www.bailii.org/ew/cases/ EWCA/Crim/2012/973.html.
+				<br>Case (Court of Appeal), http://www.bailii.org/ew/cases/EWCA/Crim/2012/973.html.
 				<br>
 			</td>
 		</tr>
@@ -2370,11 +2369,11 @@ In retaliation to the spying scandal conducted by the Australian government agai
 
 				<ol>
 					<li>Coyne, &ldquo;How the AFP nabbed an Aussie Anonymous hacker,&rdquo; It News, March 20, 2017, available at <a href="https://www.itnews.com.au/news/how-the-afp-nabbedan-aussie-anonymous-hacker-455142"><u>https://www.itnews.com.au/news/how-the-afp-nabbedan-aussie-anonymous-hacker-455142</u></a>.</li>
-				</ol>M. Ross, &ldquo;Anonymous Indonesia hacker says RBA, AFP attacks were retaliation for spying scandal,&rdquo; ABC News, November 21, 2013, available at http://www.abc.net. au/news/2013-11-21/hacker-says-rba-afp-attacks-wereretaliation-for-spying-scandal/5108220.
+				</ol>M. Ross, &ldquo;Anonymous Indonesia hacker says RBA, AFP attacks were retaliation for spying scandal,&rdquo; ABC News, November 21, 2013, available at http://www.abc.net.au/news/2013-11-21/hacker-says-rba-afp-attacks-wereretaliation-for-spying-scandal/5108220.
 				<br>
-				<br>P. Smith, &ldquo;Indonesian claims responsibility for RBA and AFP attack,&rdquo; Australian Financial Review, November 21, 2013, available at http://www.afr.com/p/technology/indonesian_ claims_responsibility_Y8kgaLtlfixvXGV5V6FH3I.
+				<br>P. Smith, &ldquo;Indonesian claims responsibility for RBA and AFP attack,&rdquo; Australian Financial Review, November 21, 2013, available at http://www.afr.com/p/technology/indonesian_claims_responsibility_Y8kgaLtlfixvXGV5V6FH3I.
 				<br>
-				<br>W. Ockenden, &ldquo;Crime Stoppers website hacked, police email addresses published in spying scandal &lsquo;payback,&rsquo;&rdquo; ABC News, November 27, 2013, available at http://www. abc.net.au/news/2013-11-26/crime-stoppers-site-targetedby-indonesian-hackers/5116856.
+				<br>W. Ockenden, &ldquo;Crime Stoppers website hacked, police email addresses published in spying scandal &lsquo;payback,&rsquo;&rdquo; ABC News, November 27, 2013, available at http://www.abc.net.au/news/2013-11-26/crime-stoppers-site-targetedby-indonesian-hackers/5116856.
 				<br>
 			</td>
 		</tr>
@@ -2485,7 +2484,7 @@ In the group’s statement, it claims to have seen what it calls a confession fr
 			</td>
 			<td valign="top"><em>Huffington Post</em>, &ldquo;Anonymous Claims Suspect Confessed To Rehtaeh Parsons&rsquo; Rape,&rdquo; April 12, 2013, available at <a href="http://www.huffingtonpost.com/2013/04/12/anonymoussuspect-confession-rehtaeh-parsons-rape_n_3070615.html"><u>http://www.huffingtonpost.com/2013/04/12/anonymoussuspect-confession-rehtaeh-parsons-rape_n_3070615.html</u></a>.
 				<br>
-				<br>D. Bates, &ldquo;Anonymous threaten to unmask boys who &lsquo;drove 17-year-old girl to hang herself after they gang raped her and put photo on web&rsquo;,&rdquo; <em>Daily Mail,</em> April 11, 2013, available at http://www.dailymail.co.uk/news/article-2307266/ Rehtaeh-Parsons-gang-rape-Anonymous-threaten-unmaskboys-drove-girl-hang-herself.html.
+				<br>D. Bates, &ldquo;Anonymous threaten to unmask boys who &lsquo;drove 17-year-old girl to hang herself after they gang raped her and put photo on web&rsquo;,&rdquo; <em>Daily Mail,</em> April 11, 2013, available at http://www.dailymail.co.uk/news/article-2307266/Rehtaeh-Parsons-gang-rape-Anonymous-threaten-unmaskboys-drove-girl-hang-herself.html.
 				<br>
 			</td>
 		</tr>
@@ -2599,7 +2598,7 @@ The defendant secretly copied thousands of classified (many confidential) milita
 			</td>
 			<td valign="top">Wikipedia, Anat Kamm-Uri Blau Affair (October 20, 2018) <a href="http://en.wikipedia.org/wiki/Anat_Kamm-Uri_Blau_affair"><u>http://en.wikipedia.org/wiki/Anat_Kamm-Uri_Blau_affair</u></a>
 				<br>
-				<br>Case, http://www.maannews.net/eng/ViewDetails. aspx?ID=275114
+				<br>Case, http://www.maannews.net/eng/ViewDetails.aspx?ID=275114
 				<br>
 			</td>
 		</tr>
@@ -2708,7 +2707,7 @@ Internet café worker Wildan Yani Ashari was arrested by police after he replace
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">J. Goldman, &ldquo;Indonesian Government Sites Hacked Following Hacker&rsquo;s Arrest,&rdquo; eSecurity Planet, January 31, 2013, available at http://www.esecurityplanet.com/hackers/ indonesian-government-sites-hacked-following-hackersarrest.html
+			<td valign="top">J. Goldman, &ldquo;Indonesian Government Sites Hacked Following Hacker&rsquo;s Arrest,&rdquo; eSecurity Planet, January 31, 2013, available at http://www.esecurityplanet.com/hackers/indonesian-government-sites-hacked-following-hackersarrest.html
 				<br>
 			</td>
 		</tr>
@@ -2817,7 +2816,7 @@ Japanese police on Sunday arrested a man, Yusuke Katayama (aka“Demon Killer”
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top"><em>Sydney Morning Herald</em>, &ldquo;Man Arrested Over Bizarre Hacking Campaign Involving Cat,&rdquo; February 11, 2013, available at http://www.smh.com.au/technology/ technology-news/man-arrested-over-bizarre-hackingcampaign-involving-cat-20130211-2e77o.html
+			<td valign="top"><em>Sydney Morning Herald</em>, &ldquo;Man Arrested Over Bizarre Hacking Campaign Involving Cat,&rdquo; February 11, 2013, available at http://www.smh.com.au/technology/technology-news/man-arrested-over-bizarre-hackingcampaign-involving-cat-20130211-2e77o.html
 				<br>
 			</td>
 		</tr>
@@ -2924,11 +2923,11 @@ Anonymous member James Raj Arokiasamy (aka “The Messiah”) hacked into the of
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">Banyan, &ldquo;Messiah complicated,&rdquo; Economist, December 7, 2013, available at http://www.economist.com/blogs/banyan/ 2013/12/hacking-singapore
+			<td valign="top">Banyan, &ldquo;Messiah complicated,&rdquo; Economist, December 7, 2013, available at http://www.economist.com/blogs/banyan/2013/12/hacking-singapore
 				<br>
-				<br>Banyan, &ldquo;Two steps back,&rdquo; Economist, February 25, 2014, available at http://www.economist.com/blogs/banyan/2013/ 06/regulating-singapores-internet.
+				<br>Banyan, &ldquo;Two steps back,&rdquo; Economist, February 25, 2014, available at http://www.economist.com/blogs/banyan/2013/06/regulating-singapores-internet.
 				<br>
-				<br>I. Poh, &ldquo;Hacker who called himself &lsquo;The Messiah&rsquo; jailed 4 years and 8 months,&rdquo; Straits Times, January 30, 2015, available at https://www.straitstimes.com/singapore/ courts-crime/hacker-who-called-himself-the-messiahjailed-4-years-and-8-months.
+				<br>I. Poh, &ldquo;Hacker who called himself &lsquo;The Messiah&rsquo; jailed 4 years and 8 months,&rdquo; Straits Times, January 30, 2015, available at https://www.straitstimes.com/singapore/courts-crime/hacker-who-called-himself-the-messiahjailed-4-years-and-8-months.
 				<br>
 			</td>
 		</tr>
@@ -3037,9 +3036,9 @@ Andreas-Thomas Vogel launched a denial-of-service attack against the website of 
 			<td valign="top">Main URL:
 				<br>
 			</td>
-			<td valign="top">J. Libbenga, &ldquo;German court to examine Lufthansa attack,&rdquo; <em>The Register</em>, April 1, 2005, available at https://www. theregister.co.uk/2005/04/01/lufthansa_ddos_attack/.
+			<td valign="top">J. Libbenga, &ldquo;German court to examine Lufthansa attack,&rdquo; <em>The Register</em>, April 1, 2005, available at https://www.theregister.co.uk/2005/04/01/lufthansa_ddos_attack/.
 				<br>
-				<br>R. Bendrath, &ldquo;Frankfurt Appellate Court Says Online Demonstration is Not Coercion,&rdquo; EDRi, June 7, 2006, available at https://edri.org/edrigramnumber4-11 demonstration/.
+				<br>R. Bendrath, &ldquo;Frankfurt Appellate Court Says Online Demonstration is Not Coercion,&rdquo; EDRi, June 7, 2006, available at https://edri.org/edrigramnumber4-11demonstration/.
 				<br>
 			</td>
 		</tr>
