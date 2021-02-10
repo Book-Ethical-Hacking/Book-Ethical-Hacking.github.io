@@ -178,9 +178,9 @@ The issues with online civil disobedience are in many ways the same issues with 
 </div>
 
 <div style='text-align:right' markdown="1">
-[Next](/docs/ethical-hacking-chapter-7/)
+[Next](/docs/ethical-hacking-chapter-8/)
 </div>
 
 <div style='text-align:left' markdown="1">
-[Previous](/docs/ethical-hacking-chapter-5/)
+[Previous](/docs/ethical-hacking-chapter-6/)
 </div>

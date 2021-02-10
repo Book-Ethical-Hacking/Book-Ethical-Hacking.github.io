@@ -126,9 +126,9 @@ The motivation of much hacktivism is closely linked to whistleblowing, which is 
 </div>
 
 <div style='text-align:right' markdown="1">
-[Next](/docs/ethical-hacking-chapter-7/)
+[Next](/docs/ethical-hacking-chapter-9/)
 </div>
 
 <div style='text-align:left' markdown="1">
-[Previous](/docs/ethical-hacking-chapter-5/)
+[Previous](/docs/ethical-hacking-chapter-7/)
 </div>
