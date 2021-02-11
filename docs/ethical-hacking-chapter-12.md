@@ -29,7 +29,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 ### Chapter XII 
 {: .no_toc}
 
-## Chapter XII, Ethical-Hacking Challenges in Legal Frameworks, Investigation, Prosecution, and Sentencing 
+## Ethical-Hacking Challenges in Legal Frameworks, Investigation, Prosecution, and Sentencing 
 
 There is often a false belief among law makers that if the right legislation is enacted, and if enough resources are allocated to the task, that the law can rise to the challenge and overcome a myriad of obstacles to combat cyber security and cybercrime. Cybercrime investigations, whether it be for online-identity theft, selling counterfeit products via spam, or hacking (unauthorized access, modification of or impairment/interference with data or data systems), involve unique challenges. The challenges involve difficulty with the harmonization of laws, jurisdictional issues, resource implications, lack of training, ambiguity in terms of how a criminal provision will be interpreted alongside human-rights protections, and, above all, a host of technical hurdles that makes tracing back to the “offender” difficult. In spite of advances in machine learning, big-data techniques, and artificial intelligence, attribution remains a formidable challenge. If these hurdles are overcome, there remain issues with inconsistency in sentencing and, where relevant, in determining appropriate damages. These challenges are the same for ethical hacking
 
@@ -176,6 +176,9 @@ The situation is somewhat reversed when subpoenas for data logs are sent to US-b
 The second challenge is related to the first in that police tend to use their resources to respond to local problems. Where there is no victim in the locale of a particular police force, priority there will not be given to an overseas investigation. Third, there is the “de minimus rule,” whereby in order to justify valuable police resources, a certain threshold of damages must be met. The jurisdictional hurdles stem from practical considerations as well as a lack of criminalization of an act across jurisdictions.
 
 IFW Global is a company that conducts private investigations of cybercrime and, in particular, criminal-fraud syndicates. In our work (recall that I am on the board of directors) we took down the international fraud group known as the Bristol Boys. The investigation lasted over two years and involved twenty-five separate jurisdictions with registered companies, physical locations of servers and offices, virtual offices, bank accounts, and more see figure 20.
+
+![Figure 20. Jurisdictions Involved with the Bristol Boys Investigation](https://statics.bsafes.com/images/book-ethical-hacking/ethical-hacking-fig-20.png)
+Figure 20. Jurisdictions Involved with the Bristol Boys Investigation
 
 Although the case involved online organized cyber fraud, the jurisdictional issues for ethical hacking are similar, especially when people from various points in the world anonymously participate in an ethical-hacking incident.
 
@@ -481,9 +484,9 @@ offences</strong>
 </div>
 
 <div style='text-align:right' markdown="1">
-[Next](/docs/ethical-hacking-chapter-12/)
+[Next](/docs/ethical-hacking-chapter-13/)
 </div>
 
 <div style='text-align:left' markdown="1">
-[Previous](/docs/ethical-hacking-chapter-10/)
+[Previous](/docs/ethical-hacking-chapter-11/)
 </div>
