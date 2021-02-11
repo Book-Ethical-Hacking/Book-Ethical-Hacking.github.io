@@ -255,33 +255,33 @@ It would be interesting to see what degree of law-enforcement resources are bein
 		<tr valign="TOP">
 			<td style="width: 47.4754%;" width="356"><strong>Article 2&mdash;Illegal access</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the access to the whole or any part of a computer system without right. A Party may require that the offence be committed by infringing security measures, with the intent of obtaining computer data or other dishonest intent, or in relation to a computer system that is connected to another computer system. &nbsp; &nbsp; &nbsp; &nbsp;</p>
+				<p>Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the access to the whole or any part of a computer system without right. A Party may require that the offence be committed by infringing security measures, with the intent of obtaining computer data or other dishonest intent, or in relation to a computer system that is connected to another computer system. &nbsp; &nbsp; &nbsp; &nbsp;</p>
 			</td>
 			<td colspan="2" style="width: 52.4014%; vertical-align: top;" width="419"><strong>Section 342.1 of the Criminal Code</strong>
 				<br>Unauthorized use of computer to commit an offence in relation to Section 430. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
-<p style="margin-bottom: 0cm;">
+				<p style="margin-bottom: 0cm;">
 					<br>
 				</p>
 
-<p style="margin-bottom: 0cm;">Computer System = a device that, or a group of interconnected or related devices, one or more of which, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+				<p style="margin-bottom: 0cm;">Computer System = a device that, or a group of interconnected or related devices, one or more of which, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
-<p style="margin-bottom: 0cm;">&nbsp; (a) contains computer programs or &nbsp;other data, and</p>
+				<p style="margin-bottom: 0cm;">&nbsp; (a) contains computer programs or &nbsp;other data, and</p>
 
-<p style="margin-bottom: 0cm;">&nbsp; (b) <span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">pursuant to computer programs,</span></p>
+				<p style="margin-bottom: 0cm;">&nbsp; (b) <span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">pursuant to computer programs,</span></p>
 
-<p style="margin-bottom: 0cm;">&nbsp; (i) performs logic and control, and</p>&nbsp; (ii) may perform any other function &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+				<p style="margin-bottom: 0cm;">&nbsp; (i) performs logic and control, and</p>&nbsp; (ii) may perform any other function &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>Data = representations of information or of concepts that are &nbsp; &nbsp;being prepared or have been prepared in a form suitable for use in a computer system</p>
+				<p>Data = representations of information or of concepts that are &nbsp; &nbsp;being prepared or have been prepared in a form suitable for use in a computer system</p>
 			</td>
 		</tr>
 		<tr valign="TOP">
 			<td style="width: 47.4754%;" width="356"><strong>Article 3&mdash;Illegal interception</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the interception without right, made by technical means, of nonpublic transmissions of computer data to, from or within a computer system, including electromagnetic emissions from a computer system carrying such computer data. A Party may require that the offence be committed with dishonest intent, or in relation to a computer system that is &nbsp;connected to another computer system.</p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+				<p>Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the interception without right, made by technical means, of nonpublic transmissions of computer data to, from or within a computer system, including electromagnetic emissions from a computer system carrying such computer data. A Party may require that the offence be committed with dishonest intent, or in relation to a computer system that is &nbsp;connected to another computer system.</p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
 			<td colspan="2" style="width: 52.4014%;" width="419">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
-<p>
+				<p>
 					<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
 		</tr>
 		<tr>
@@ -300,7 +300,7 @@ It would be interesting to see what degree of law-enforcement resources are bein
 			</td>
 			<td style="width: 52.4014%; vertical-align: top;"><strong>Section 430 (1.1) of the Criminal Code</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>Commits mischief which amounts to an indictable offence for the &nbsp;wilful destroying, altering or interferes with the lawful use of data</p>
+				<p>Commits mischief which amounts to an indictable offence for the &nbsp;wilful destroying, altering or interferes with the lawful use of data</p>
 				<br>
 			</td>
 			<td style="width: 52.4014%;">
@@ -310,35 +310,33 @@ It would be interesting to see what degree of law-enforcement resources are bein
 		<tr valign="TOP">
 			<td style="width: 47.4754%;" width="356"><strong>Article 5&mdash;System interference</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the serious hindering without right of the functioning of a computer system by inputting, transmitting, damaging, deleting, deteriorating, altering or suppressing computer data.</p>
+				<p>Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally, the serious hindering without right of the functioning of a computer system by inputting, transmitting, damaging, deleting, deteriorating, altering or suppressing computer data.</p>
 			</td>
 			<td colspan="2" style="width: 52.4014%;" width="419">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
-<p>
+				<p>
 					<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
 		</tr>
 		<tr valign="TOP">
 			<td height="544" style="width: 47.4754%;" width="356"><strong>Article 6&mdash;Misuse of devices</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>1. Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right:</p>
+				<p>1. Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right:</p>
 
-<p>(a) the production, sale, procurement for use, import, distribution or otherwise making available of:
+				<p>(a) the production, sale, procurement for use, import, distribution or otherwise making available of:
 					<br>(i) a device, including a computer program, designed or adapted primarily for the purpose of committing any of the offences established in accordance with Articles 2 through 5;</p>
 
-<p>(ii) a computer password, access code, or similar data by which the whole or any part of a computer system is capable of being accessed, with intent that it be used for the purpose of committing any of the offences established in Articles 2 through 5; and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+				<p>(ii) a computer password, access code, or similar data by which the whole or any part of a computer system is capable of being accessed, with intent that it be used for the purpose of committing any of the offences established in Articles 2 through 5; and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 
-<p>(b) the possession of an item referred to in paragraphs a.i or ii above, with intent that it be used for the purpose of committing any of the offences established in Articles 2 through 5. A Party may require by law that a number of such items be possessed before criminal liability attaches.</p>
+				<p>(b) the possession of an item referred to in paragraphs a.i or ii above, with intent that it be used for the purpose of committing any of the offences established in Articles 2 through 5. A Party may require by law that a number of such items be possessed before criminal liability attaches.</p>
 
-<p>2. This article shall not be interpreted as imposing criminal liability where the production, sale, procurement for use, import, distribution or otherwise &nbsp;making available or possession referred to in paragraph 1 of this article is not for the purpose of committing an offence established in accordance with Articles 2 through 5 of this Convention, such as for the authorised testing or protection of a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;computer system.</p>
+				<p>2. This article shall not be interpreted as imposing criminal liability where the production, sale, procurement for use, import, distribution or otherwise &nbsp;making available or possession referred to in paragraph 1 of this article is not for the purpose of committing an offence established in accordance with Articles 2 through 5 of this Convention, such as for the authorised testing or protection of a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;computer system.</p>
 
-<p>3. Each Party may reserve the right not to apply paragraph 1 of this article, provided that the reservation does not concern the sale, distribution or otherwise making available of the items referred to in paragraph 1 a.ii of this article.&nbsp;</p>
+				<p>3. Each Party may reserve the right not to apply paragraph 1 of this article, provided that the reservation does not concern the sale, distribution or otherwise making available of the items referred to in paragraph 1 a.ii of this article.&nbsp;</p>
 			</td>
-			<td colspan="2" style="width: 52.4014%;" width="419">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-
-<p style="margin-bottom: 0cm;"><strong>Section 326 (1)(b) of the Criminal Code</strong></p>Commits theft who fraudulently, maliciously or without a colour of right uses any telecommunication facility or obtains any telecommunication services
+			<td colspan="2" style="width: 52.4014%;" width="419"><strong>Section 326 (1)(b) of the Criminal Code</strong>Commits theft who fraudulently, maliciously or without a colour of right uses any telecommunication facility or obtains any telecommunication services
 				<br>&nbsp;
 
-<p style="margin-bottom: 0cm;"><strong>Section 327 (1) of the Criminal Code</strong></p>Without lawful excuse, the proof of which lies on him, manufactures, possesses, sells or offers for sale or distributes any instrument or device or any component thereof, the design of which renders it primarily useful for obtaining the use of any telecommunication facility or service, under circumstances that give rise to a reasonable inference that the device has been used or is or was intended to be used to obtain the use of any telecommunication facility or service without payment of a lawful charge therefor, is guilty of an indictable offence &nbsp; &nbsp; &nbsp; &nbsp;</td>
+				<p style="margin-bottom: 0cm;"><strong>Section 327 (1) of the Criminal Code</strong></p>Without lawful excuse, the proof of which lies on him, manufactures, possesses, sells or offers for sale or distributes any instrument or device or any component thereof, the design of which renders it primarily useful for obtaining the use of any telecommunication facility or service, under circumstances that give rise to a reasonable inference that the device has been used &nbsp; &nbsp; &nbsp; &nbsp; or is or was intended to be used to obtain the use of any telecommunication facility or service without payment of a lawful &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;charge therefor, is guilty of an indictable offence &nbsp; &nbsp; &nbsp; &nbsp;</td>
 		</tr>
 		<tr valign="TOP">
 			<td colspan="3" style="width: 99.8768%;" width="388"><strong>Forgery and online fraud</strong>
@@ -348,13 +346,13 @@ It would be interesting to see what degree of law-enforcement resources are bein
 		<tr>
 			<td style="width: 47.4754%;"><strong>Article 7</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p style="margin-left: -0.05cm;">Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right, the input, alteration, deletion, or suppression of computer data, resulting in inauthentic data with the intent that it be considered or acted upon for legal purposes as if it were authentic, regardless whether or not the data is directly readable and intelligible. A Party may require an intent to defraud, or similar dishonest intent, before criminal liability <span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">attaches.</span></p>
+				<p style="margin-left: -0.05cm;">Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right, the input, alteration, deletion, or suppression of computer data, resulting in inauthentic data with the intent that it be considered or acted upon for legal purposes as if it were authentic, regardless whether or not the data is directly readable and intelligible. A Party may require an intent to defraud, or similar dishonest intent, before criminal liability <span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">attaches.</span></p>
 			</td>
 			<td style="width: 52.4014%; vertical-align: top;"><strong>Section 366 of the Criminal Code</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>Deals largely with forgery and offences resembling forgery.</p>
+				<p>Deals largely with forgery and offences resembling forgery.</p>
 
-<p>However, there are no provisions for forgery committed by the way of alteration of computer data resulting in inauthentic data with intent to be considered or acted upon as if it were authentic.</p>
+				<p>However, there are no provisions for forgery committed by the way of alteration of computer data resulting in inauthentic data with intent to be considered or acted upon as if it were authentic.</p>
 				<br>
 			</td>
 			<td style="width: 52.4014%;">
@@ -368,12 +366,13 @@ It would be interesting to see what degree of law-enforcement resources are bein
 		<tr valign="TOP">
 			<td style="width: 47.4754%;" width="356"><strong>Article</strong> <strong>8</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p style="margin-bottom: 0cm;">Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right, the causing of a loss of property to another person by:</p>(a) any input, alteration, deletion or suppression of computer data
-				<br>(b) any interference with the functioning of a computer system, with fraudulent or dishonest intent of procuring, without right, an economic benefit for oneself or for another person. </td>
+				<p style="margin-bottom: 0cm;">Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right, the causing of a loss of property to another person by:</p>(a) any input, alteration, deletion or suppression of computer data
+				<br>(b) any interference with the functioning of a computer system, with fraudulent or dishonest intent of procuring, without right, an economic benefit for oneself or for another person.</td>
 			<td colspan="2" style="width: 52.4014%;" width="419"><strong>Part X of the Criminal Code</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>Deals largely with fraud and related fraudulent conduct. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p>However, there are no provisions for fraud committed of computer &nbsp;data using a computer system.</p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+				<p>Deals largely with fraud and related fraudulent conduct. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+				<p>However, there are no provisions for fraud committed of computer &nbsp;data using a computer system.</p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
 		</tr>
 		<tr valign="TOP">
 			<td colspan="3" style="width: 99.8768%;" width="388"><strong>Child sexual exploitation materials</strong></td>
@@ -381,15 +380,13 @@ It would be interesting to see what degree of law-enforcement resources are bein
 		<tr valign="TOP">
 			<td style="width: 47.4754%;" width="356"><strong>Article 9</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p>1. Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right, the following conduct: &nbsp;&nbsp;</p>(a) producing child pornography for the purpose of its distribution through a computer system;
-				<br>(b) offering or making available child pornography through a computer system; 
-				<br>(c) distributing or transmitting child pornography through a computer system; 
-				<br>(d) procuring child pornography through a computer system for oneself or for another person; 
-				<br>(e) possessing child pornography in a computer system or on a computer-data storage medium. 
+				<p>1. Each Party shall adopt such legislative and other measures as may be necessary to establish as criminal offences under its domestic law, when committed intentionally and without right, the following conduct: &nbsp;&nbsp;</p>(a) producing child pornography for the purpose of its distribution through a computer system;
+				<br>(b) offering or making available child pornography through a computer system;
+				<br>(c) distributing or transmitting child pornography through a computer system;
+				<br>(d) procuring child pornography through a computer system for oneself or for another person;
+				<br>(e) possessing child pornography in a computer system or on a computer-data storage medium.
 
-					
-
-<p>2. For the &nbsp;purpose of paragraph 1 above, the term &ldquo;child pornography&rdquo; shall include pornographic material that visually depicts: &nbsp;&nbsp;</p>(a) a minor engaged in sexually explicit conduct;
+				<p>2. For the &nbsp;purpose of paragraph 1 above, the term &ldquo;child pornography&rdquo; shall include pornographic material that visually depicts: &nbsp;&nbsp;</p>(a) a minor engaged in sexually explicit conduct;
 				<br>(b) a person appearing to be a minor engaged in sexually explicit conduct; &nbsp;
 				<br>c) realistic images representing a minor engaged in sexually explicit conduct.
 				<br>
@@ -398,28 +395,29 @@ It would be interesting to see what degree of law-enforcement resources are bein
 				<br>4. Each Party may reserve the right not to apply, in whole or in part, paragraphs 1, sub-paragraphs d. and e, and 2, sub-paragraphs b. and c. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
 			<td colspan="2" style="width: 52.4014%;" width="419"><strong>Section 163.1 of the Criminal Code</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<p style="margin-bottom: 0cm;">Subsection 1&mdash;Definition Similar to Clause 2, 3 &amp; 4 in corresponding Article</p>
+				<p style="margin-bottom: 0cm;">Subsection 1&mdash;Definition Similar to Clause 2, 3 &amp; 4 in corresponding Article</p>
 
-<p style="margin-bottom: 0cm;">Subsection 2&mdash;Making child pornography&nbsp;</p>
+				<p style="margin-bottom: 0cm;">Subsection 2&mdash;Making child pornography&nbsp;</p>
 
-<p style="margin-bottom: 0cm;">No indication of said offence depicting production of child pornography for the purpose of its distribution through a computer system.</p>
+				<p style="margin-bottom: 0cm;">No indication of said offence depicting production of child pornography for the purpose of its distribution through a computer system.</p>
 
-<p style="margin-bottom: 0cm;">Subsection 3&mdash;Distribution Distribution of any child pornography guilty of an indictable offence punishable on summary convictions.&nbsp;</p>
+				<p style="margin-bottom: 0cm;">Subsection 3&mdash;Distribution Distribution of any child pornography guilty of an indictable offence punishable on summary convictions.&nbsp;</p>
 
-<p style="margin-bottom: 0cm;">No indication of said offence depicting offering or make available or distribute or transmit or procure of child pornography through a computer system.</p>
-<p style="margin-bottom: 0cm;">Subsection 3&mdash;Distribution Distribution of any child pornography guilty of an indictable offence punishable on summary convictions.&nbsp;</p>
+				<p style="margin-bottom: 0cm;">No indication of said offence depicting offering or make available or distribute or transmit or procure of child pornography through a computer system.</p>
 
-<p style="margin-bottom: 0cm;">No indication of said offence depicting offering or make available or distribute or transmit or procure of child pornography through a computer system.</p>
+				<p style="margin-bottom: 0cm;">Subsection 3&mdash;Distribution Distribution of any child pornography guilty of an indictable offence punishable on summary convictions.&nbsp;</p>
 
-<p style="margin-bottom: 0cm;">Subsection 4&mdash;Possession</p>
+				<p style="margin-bottom: 0cm;">No indication of said offence depicting offering or make available or distribute or transmit or procure of child pornography through a computer system.</p>
 
-<p style="margin-bottom: 0cm;">No indication of said offence depicting possession of child pornography in a computer system or on a computer-data storage medium.
+				<p style="margin-bottom: 0cm;">Subsection 4&mdash;Possession</p>
 
-<p style="margin-bottom: 0cm;"><em>An Act respecting the mandatory reporting of Internet child pornography by persons who provide an Internet service, SC 2011, c&nbsp;</em></p>
+				<p style="margin-bottom: 0cm;">No indication of said offence depicting possession of child pornography in a computer system or on a computer-data storage medium.</p>
 
-<p style="margin-bottom: 0cm;">Act that requires mandatory report of Internet child pornography activities by Internet providers.</p>
+				<p style="margin-bottom: 0cm;"><em>An Act respecting the mandatory reporting of Internet child pornography by persons who provide an Internet service, SC 2011, c&nbsp;</em></p>
 
-<p style="margin-bottom: 0cm;">Corresponding Regulation: Internet Child Pornography Reporting Regulations, SOR/2011-292 &nbsp; &nbsp;&nbsp;</p>
+				<p style="margin-bottom: 0cm;">Act that requires mandatory report of Internet child pornography activities by Internet providers.</p>
+
+				<p style="margin-bottom: 0cm;">Corresponding Regulation: Internet Child Pornography Reporting Regulations, SOR/2011-292 &nbsp; &nbsp;&nbsp;</p>
 			</td>
 		</tr>
 		<tr valign="TOP">
