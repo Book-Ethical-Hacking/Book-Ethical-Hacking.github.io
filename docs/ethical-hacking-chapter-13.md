@@ -118,16 +118,16 @@ Table 6 presents some off-line acts and provides the relevant Charter protection
 <table border="0" cellpadding="9" cellspacing="0" width="812">
 	<tbody>
 		<tr valign="TOP">
-			<td width="185"><strong>Action</strong>
+			<td style="background-color: rgb(204, 204, 204);" width="185"><strong>Action</strong>
 				<br>
 			</td>
-			<td width="185"><strong>Charter Protection</strong>
+			<td style="background-color: rgb(204, 204, 204);" width="185"><strong>Charter Protection</strong>
 				<br>
 			</td>
-			<td width="185"><strong>Legal Principles</strong>
+			<td style="background-color: rgb(204, 204, 204);" width="185"><strong>Legal Principles</strong>
 				<br>
 			</td>
-			<td width="185"><strong>Leading Case Law</strong>
+			<td style="background-color: rgb(204, 204, 204);" width="185"><strong>Leading Case Law</strong>
 				<br>
 			</td>
 		</tr>
@@ -246,6 +246,7 @@ Table 6 presents some off-line acts and provides the relevant Charter protection
 <p>
 	<br>
 </p>
+
 
 Let us use Anonymous’s Operation Titstorm as an example for our discussion. Participating in a denial-of-service attack against a parliamentary website is a form of protest. In this case, it was to protest censorship in Australia. The DDoS attack could be considered similar to a barricade. In this instance, images of penises and breasts were also displayed on the parliamentary website. It is difficult to see this SQL injection as being different from a form of picketing or leafleting outside of a parliament with similar images, or similar to spraying graffiti, albeit distasteful. The intent is the same—protesting government censorship.
 
