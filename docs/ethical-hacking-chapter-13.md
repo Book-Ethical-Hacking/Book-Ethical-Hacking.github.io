@@ -118,10 +118,10 @@ Table 6 presents some off-line acts and provides the relevant Charter protection
 <table border="0" cellpadding="9" cellspacing="0" width="812">
 	<tbody>
 		<tr valign="TOP">
-			<td style="background-color: rgb(204, 204, 204);" width="185"><strong>Action</strong>
+			<td style="background-color: rgb(204, 204, 204); width: 17.8182%;" width="185"><strong>Action</strong>
 				<br>
 			</td>
-			<td style="background-color: rgb(204, 204, 204);" width="185"><strong>Charter Protection</strong>
+			<td style="background-color: rgb(204, 204, 204); width: 25.6363%;" width="185"><strong>Charter Protection</strong>
 				<br>
 			</td>
 			<td style="background-color: rgb(204, 204, 204);" width="185"><strong>Legal Principles</strong>
@@ -132,120 +132,81 @@ Table 6 presents some off-line acts and provides the relevant Charter protection
 			</td>
 		</tr>
 		<tr valign="TOP">
-			<td width="185">Picketing
+			<td style="width: 17.8182%;" width="185">Picketing
 				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li>Freedom of Expression</li>
-				</ul>&nbsp;(s. 2b of the Canadian Charter and art. 3 Quebec Charter of Human Rights and Freedoms)
-
-				<ul>
-					<li>Freedom of Peaceful Assembly and Association</li>
-				</ul>&nbsp;(s. 2(c) of the Canadian Charter and art. 3 of the Quebec Charter)
+			<td style="width: 25.6363%;" width="185">&bull; Freedom of Expression
+				<br>&nbsp;(s. 2b of the Canadian Charter and art. 3 Quebec Charter of Human Rights and Freedoms)
+				<br>&bull; Freedom of Peaceful Assembly and Association
+				<br>&nbsp;(s. 2(c) of the Canadian Charter and art. 3 of the Quebec Charter)
 				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li>Picketing falls under freedom of expression.</li>
-					<li>It does not extend to acts of violence.</li>
-					<li>It does not extend to destruction of property, assault or other unlawful conduct.</li>
-					<li>Picketing may be restricted if it is inconsistent with the function of the place it takes place in.</li>
-					<li>Injunction is unlikely to be granted if the police can control the situation.</li>
-				</ul>
+			<td width="185">&bull; Picketing falls under freedom of expression.
+				<br>&bull; It does not extend to acts of violence.
+				<br>&bull; It does not extend to destruction of property, assault or other unlawful conduct.
+				<br>&bull; Picketing may be restricted if it is inconsistent with the function of the place it takes place in.
+				<br>&bull; Injunction is unlikely to be granted if the police can control the situation.
+				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li><em>K Mart Canada Ltd v. United Food and Commercial Workers</em></li>
-					<li><em>R.W.D.S.U., Local 558 v. Pepsi-Cola Canada Beverages</em></li>
-					<li><em>Dolphin Delivery Ltd v. RWDSU</em></li>
-					<li><em>Chum Ltd v. NABET</em></li>
-					<li><em>Blackstone Industrial Products Ltd. v. Parsons (1979)</em></li>
-					<li><em>Ontario Public Service Employees Union v. Ontario (Attorney General)</em></li>
-				</ul>
+			<td width="185"><em>&bull; K Mart Canada Ltd v. United Food and Commercial Workers</em>
+				<br><em>&bull; R.W.D.S.U., Local 558 v. Pepsi-Cola Canada Beverages</em>
+				<br><em>&bull; Dolphin Delivery Ltd v. RWDSU</em>
+				<br><em>&bull; Chum Ltd v. NABET</em>
+				<br><em>&bull; Blackstone Industrial Products Ltd. v. Parsons (1979)</em>
+				<br><em>&bull; Ontario Public Service Employees Union v. Ontario (Attorney General)</em>
+				<br>
 				<br>
 				<br>
 			</td>
 		</tr>
 		<tr valign="TOP">
-			<td width="185">Protesting
+			<td style="width: 17.8182%;" width="185">Protesting
 				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li>Freedom of Expression</li>
-				</ul>&nbsp;(s. 2b of the Canadian Charter and s. X Quebec Charter)
-
-				<ul>
-					<li>Freedom of Peaceful Assembly and Association</li>
-				</ul>&nbsp;(s. 2(c) of the Canadian Charter and art. 3 of the Quebec Charter)
+			<td style="width: 25.6363%;" width="185">&bull; Freedom of Expression
+				<br>&nbsp;(s. 2b of the Canadian Charter and s. X Quebec Charter)
+				<br>&bull; Freedom of Peaceful Assembly and Association
+				<br>&nbsp;(s. 2(c) of the Canadian Charter and art. 3 of the Quebec Charter)
 				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li>Comes within freedom of expression because it is an effort to influence social/political decisions.</li>
-					<li>Comes within peaceful assembly because it allows assembly for the purposes of protesting state action.</li>
-					<li>Unlawful strikes are still protected as &ldquo;expression.&rdquo;</li>
-					<li>However, not all government property can be used as a physical areas on which to protest.</li>
-					<li>Public streets can be.</li>
-					<li>As with picketing, it can be restricted if it is inconsistent with the function of the place it occurs in.</li>
-				</ul>
+			<td width="185">&bull; Comes within freedom of expression because it is an effort to influence social/political decisions.
+				<br>&bull; Comes within peaceful assembly because it allows assembly for the purposes of protesting state action.
+				<br>&bull; Unlawful strikes are still protected as &ldquo;expression.&rdquo;
+				<br>&bull; However, not all government property can be used as a physical areas on which to protest.
+				<br>&bull; Public streets can be.
+				<br>&bull; As with picketing, it can be restricted if it is inconsistent with the function of the place it occurs in.
+				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li><em>HEU &amp; BCTF et al. v. HEABC &amp; BCPSEA</em></li>
-					<li><em>Re General Motors</em></li>
-				</ul>
+			<td width="185"><em>&bull; HEU &amp; BCTF et al. v. HEABC &amp; BCPSEA</em>
+				<br><em>&bull; Re General Motors</em>
+				<br>
 			</td>
 		</tr>
 		<tr valign="TOP">
-			<td width="185">Graffiti
+			<td style="width: 17.8182%;" width="185">Graffiti
 				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li>Freedom of Expression&nbsp;</li>
-				</ul>(s. 2b of the Canadian Charter and art. 3 Quebec Charter)
+			<td style="width: 25.6363%;" width="185">&bull; Freedom of Expression
+				<br>(s. 2b of the Canadian Charter and art. 3 Quebec Charter)
 				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li>Graffiti falls under freedom of expression because the forms of &ldquo;expression&rdquo; can be written and/or artistic.</li>
-					<li>If the graffiti contains political commentary and social expression, it is protected by the Charter.</li>
-					<li>This protection also extends to pictures or photos.</li>
-					<li>Offensive or insulting graffiti is not reason enough to restrict it.</li>
-					<li>If the act involves violence it is not protected by the Charter.</li>
-					<li>Some suggestion that neither Canadian nor Quebec Charters protect property damage.</li>
-				</ul>
+			<td width="185">&bull; Graffiti falls under freedom of expression because the forms of &ldquo;expression&rdquo; can be written and/or artistic.
+				<br>&bull; If the graffiti contains political commentary and social expression, it is protected by the Charter.
+				<br>&bull; This protection also extends to pictures or photos.
+				<br>&bull; Offensive or insulting graffiti is not reason enough to restrict it.
+				<br>&bull; If the act involves violence it is not protected by the Charter.
+				<br>&bull; Some suggestion that neither Canadian nor Quebec Charters protect property damage.
+				<br>
 			</td>
-			<td width="185">
-
-				<ul>
-					<li><em>Ontario (Attorney-General) v. Dieleman, 1994 CanLII 7509 (ON SC)</em></li>
-					<li><em>Cherneskey v. Armadale Publishers Ltd. (1978), 1978 CanLII 20 (SCC), 90 D.L.R. (3d) 321 at p 330</em></li>
-					<li><em>Irwin Toy Ltd. v. Quebec (Attorney-General), supra, at p 606-8</em></li>
-					<li><em>R. c. Quickfall, 1993 CanLII 3509 (QC CA)</em></li>
-				</ul>
+			<td width="185"><em>&bull; Ontario (Attorney-General) v. Dieleman, 1994 CanLII 7509 (ON SC)</em>
+				<br><em>&bull; Cherneskey v. Armadale Publishers Ltd. (1978), 1978 CanLII 20 (SCC), 90 D.L.R. (3d) 321 at p 330</em>
+				<br><em>&bull; Irwin Toy Ltd. v. Quebec (Attorney-General), supra, at p 606-8</em>
+				<br><em>&bull; R. c. Quickfall, 1993 CanLII 3509 (QC CA)</em>
+				<br>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>
-	<br>
-</p>
-
-<p>
-	<br>
-</p>
 
 
 Let us use Anonymous’s Operation Titstorm as an example for our discussion. Participating in a denial-of-service attack against a parliamentary website is a form of protest. In this case, it was to protest censorship in Australia. The DDoS attack could be considered similar to a barricade. In this instance, images of penises and breasts were also displayed on the parliamentary website. It is difficult to see this SQL injection as being different from a form of picketing or leafleting outside of a parliament with similar images, or similar to spraying graffiti, albeit distasteful. The intent is the same—protesting government censorship.
