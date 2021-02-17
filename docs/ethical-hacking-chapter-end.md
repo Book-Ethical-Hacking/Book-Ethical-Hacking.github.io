@@ -1072,7 +1072,7 @@ The Agenda, “Attack of the Hacktivists” (TVO, October 25, 2011).
 
 “Virtual Private Network,” available at http://www.en.wikipedia.org/wiki/ Virtual_private_network (last accessed June 30, 2010).
 
-### Appendix: Interview Questions
+## Appendix: Interview Questions
 
 **Question 1**: Has there been an erosion of a common hacker ethos or has the ethos merely evolved into many different sets of ethics?
 
@@ -1094,7 +1094,7 @@ The Agenda, “Attack of the Hacktivists” (TVO, October 25, 2011).
 
 **Question 10:** Is there any advice in general that you wish to impart to governments and organisations in dealing with ethical hacking?
 
-### About the Cover Image and the Artist
+## About the Cover Image and the Artist
 Serendipity brought scholarly publishing and cutting-edge art production together when we discovered the work of Phillip David Stearns.
 
 A Brooklyn-based artist, Stearns has worked at the crossroads of technology and creativity, developing, among others, a project entitled *Glitch Textiles*, which explored the intersection of digital art and textile design.
@@ -1103,7 +1103,7 @@ A search for an original visual translation of the hidden digital world inhabite
 
 “Since 2012,” Stearns said, “if anything, I’ve been seduced by the aesthetics of the algorithm.” With the author Alana Maurushat being a self-described ethical hacker and the artist developing a series of“Ethical Hacking workshops for non-technical people,” *Fragmented Memory* seemed to us the only possible cover image for this volume.
 
-### Law, Technology and Media
+## Law, Technology and Media
 
 Edited by Michael Geist
 
