@@ -103,9 +103,9 @@ It is my firm opinion that the broad wording of computer offences, both within t
 </div>
 
 <div style='text-align:right' markdown="1">
-[Next](/docs/ethical-hacking-chapter-14/)
+[Next](/docs/ethical-hacking-chapter-end/)
 </div>
 
 <div style='text-align:left' markdown="1">
-[Previous](/docs/ethical-hacking-chapter-12/)
+[Previous](/docs/ethical-hacking-chapter-13/)
 </div>
