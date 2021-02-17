@@ -26,132 +26,131 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 1. TOC
 {:toc}
 
-## Bibliography 
+## Bibliography
 
 ### Legislation and Treaties
-California Business and Professions Code (United States).
-Canada Act 1982 (UK) 1982, c 11.
-Canadian Charter of Human Rights and Freedoms.
-Canadian Criminal Code, R.S.C. 1985, c.46.
-Computer Fraud and Abuse Act 1986 (United States).
-Computer Misuse Act 1990 (United Kingdom).
-Computer Misuse and Cybersecurity Act Ch 50A (Rev Ed 2007) (Singapore).
-Convention to the International Covenant on Civil and Political Rights, 999 UNTS 302 (1967).
-Council of Europe Convention on Cybercrime, 22296 UNTS 167 (2001).
-Criminal Code Act 1995 (Australia).
-Espionage Act (1917) (United States).
-German Criminal Code (1914).
-Information and Electronic Transaction Law (2008) (Indonesia).
-Model Criminal Code (January 2001) (Australia).
-Penal Law (1977) (Israel).
-Stored Communications Act (1986) (United States).
-Uniform Code of Military (United States).
-Youth Criminal Justice Act S.C. 2002, c. 1 (Canada).
+* California Business and Professions Code (United States).
+* Canada Act 1982 (UK) 1982, c 11.
+* Canadian Charter of Human Rights and Freedoms.
+* Canadian Criminal Code, R.S.C. 1985, c.46.
+* Computer Fraud and Abuse Act 1986 (United States).
+* Computer Misuse Act 1990 (United Kingdom).
+* Computer Misuse and Cybersecurity Act Ch 50A (Rev Ed 2007) (Singapore).
+* Convention to the International Covenant on Civil and Political Rights, 999 UNTS 302 (1967).
+* Council of Europe Convention on Cybercrime, 22296 UNTS 167 (2001).
+* Criminal Code Act 1995 (Australia).
+* Espionage Act (1917) (United States).
+* German Criminal Code (1914).
+* Information and Electronic Transaction Law (2008) (Indonesia).
+* Model Criminal Code (January 2001) (Australia).
+* Penal Law (1977) (Israel).
+* Stored Communications Act (1986) (United States).
+* Uniform Code of Military (United States).
+* Youth Criminal Justice Act S.C. 2002, c. 1 (Canada).
 
 ### Case Law
-*1-800 Contacts v. WhenU.com (2005) 414 F.3d 400.
-1-800 Solutions v. Zone Labs.*
-Alberta (Education) v Canadian Copyright Licensing Agency (Access Copyright) [2012] 2 SCR 345.
-*Anat Kamm v State of Israel* [2012] Case 17959-01-10 (Israel Supreme Court). 
-*Auernheimer v. United States of America*, No. 13-1816 (United States, Third US Circuit Court of Appeals).
-*Ashdown v Telegraph Group Ltd* [2001] EWCA Civ 1142.
-*Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd* (2001) 185 ALR 1.
-*Bank Julius Baer & Co. Ltd. v. WikiLeaks* (2008) No. C 08-00824 JSW (February 29, 2008) (US District Court for the Northern District of California); see https://www.eff.org/files/filenode/baer_v_wikileaks/wikileaks102.pdf.
-*Cadbury Schweppes v FBI Foods* [1999] 1 SCR 142.
-*Campbell v Acuff-Rose Music* (1994) 510 U.S. 569.
-*Cassava (CasinoOnNet) v. Sunbelt Software.*
-*CCH Canadian Ltd. v Law Society of Upper Canada* [2004] 1 SCR.
-*Claria (Gator) v Internet Advertising Bureau.*
-*Collier Constructions Pty Ltd v Foskett Pty Ltd* (1991) 20 IPR 666.
-*Commonwealth v John Fairfax* (1980) 147 CLR 39.
-*Corrs Pavey v Collector of Customs* [1987] FCA 26.
-*Dagenais v. Canadian Broadcasting Corp.* [1994] 3 S.C.R. 835.
-*E360 Insight and David Linhardt v. The Spamhaus Project* (2007) 500 F. 3d 594 (United States Court of Appeals for the Seventh Circuit).
-*E360 Insight, LLC et al v. The Spamhaus Project* (2006) Case No. 06 C 3958 (United States District Court, Northern District of Illinois, September 13, 2006). Access to default judgment at http://www.spamhaus.org/archive/ legal/Kocoras_order_to_Spamhaus.pdf.
-*Edmonton Journal v. Alberta* (A.G.) [1989] 2 S.C.R. (Canada).
-*Hyde Park Residence v Yelland*, [2001] Ch. 143.
-*IceTV Limited v Nine Network Australia Pty Limited* [2009] HCA 14.
-*IceTV Limited v Nine Network Australia Pty Limited *[2008] HCATrans 358.
-*Imutran Ltd v Uncages Campaigns Ltd*, [2001] CP Rep. 28.
-*In re § 2703(d) Order* (2013) No. 11-5151 (US Court of Appeals Fourth Circuit) (January 25 2013).
+* *1-800 Contacts v. WhenU.com (2005) 414 F.3d 400.*
+* *1-800 Solutions v. Zone Labs.*
+* Alberta (Education) v Canadian Copyright Licensing Agency (Access Copyright) [2012] 2 SCR 345.
+* *Anat Kamm v State of Israel* [2012] Case 17959-01-10 (Israel Supreme Court). 
+* *Auernheimer v. United States of America*, No. 13-1816 (United States, Third US Circuit Court of Appeals).
+* *Ashdown v Telegraph Group Ltd* [2001] EWCA Civ 1142.
+* *Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd* (2001) 185 ALR 1.
+* *Bank Julius Baer & Co. Ltd. v. WikiLeaks* (2008) No. C 08-00824 JSW (February 29, 2008) (US District Court for the Northern District of California); see https://www.eff.org/files/filenode/baer_v_wikileaks/wikileaks102.pdf.
+* *Cadbury Schweppes v FBI Foods* [1999] 1 SCR 142.
+* *Campbell v Acuff-Rose Music* (1994) 510 U.S. 569.
+* *Cassava (CasinoOnNet) v. Sunbelt Software.*
+* *CCH Canadian Ltd. v Law Society of Upper Canada* [2004] 1 SCR.
+* *Claria (Gator) v Internet Advertising Bureau.*
+* *Collier Constructions Pty Ltd v Foskett Pty Ltd* (1991) 20 IPR 666.
+* *Commonwealth v John Fairfax* (1980) 147 CLR 39.
+* *Corrs Pavey v Collector of Customs* [1987] FCA 26.
+* *Dagenais v. Canadian Broadcasting Corp.* [1994] 3 S.C.R. 835.
+* *E360 Insight and David Linhardt v. The Spamhaus Project* (2007) 500 F. 3d 594 (United States Court of Appeals for the Seventh Circuit).
+* *E360 Insight, LLC et al v. The Spamhaus Project* (2006) Case No. 06 C 3958 (United States District Court, Northern District of Illinois, September 13, 2006). Access to default judgment at http://www.spamhaus.org/archive/ legal/Kocoras_order_to_Spamhaus.pdf.
+* *Edmonton Journal v. Alberta* (A.G.) [1989] 2 S.C.R. (Canada).
+* *Hyde Park Residence v Yelland*, [2001] Ch. 143.
+* *IceTV Limited v Nine Network Australia Pty Limited* [2009] HCA 14.
+* *IceTV Limited v Nine Network Australia Pty Limited *[2008] HCATrans 358.
+* *Imutran Ltd v Uncages Campaigns Ltd*, [2001] CP Rep. 28.
+* *In re § 2703(d) Order* (2013) No. 11-5151 (US Court of Appeals Fourth Circuit) (January 25 2013).
 See also Justia US Law,* In re 2703(d) Application, No. 11-5151* (Fourth Cir. 2013), available at https://law.justia.com/cases/federal/appellate-courts/ ca4/11-5151/11-5151-2013-01-25.html.
 Legal documents also available at, Electronic Privacy Information Center,* In re Twitter Order Pursuant to 2703(d)*, available at https://www. epic.org/amicus/twitter/wikileaks/.
-*In re § 2703(d) Order* (2011) 830 F. Supp. 2d 114 (US District Court, Eastern
+* *In re § 2703(d) Order* (2011) 830 F. Supp. 2d 114 (US District Court, Eastern
 District of Virginia, Alexandria Division) (November 10, 2011).
-*Irwin Toy v. Quebec* [1989] 1 S.C.R. 927 (Canada).
-*James Raj Arokiasamy v Public Prosecutor* [2014] 2 SLR 307 (“James Raj”) (Singapore, States Courts).
-*Lauri Love v. the Government of the United States of America* [2018] EWHC 172, see https://freelauri.com/wp-content/uploads/2018/02/lauri-love vusa.pdf.
-*Libertad.de* (2006) File reference 1 Ss 319/05, March 22, 2006 (Germany, Higher Regional Court, Frankfurt am Main).
-*Lion Laboratories v Evans,* [1985] QB 526.
-*McAuliffe v The Queen* [1995] 183 CLR 108.
-*McCabe v British American Tobacco Services Limited *[2002] VSC 73.
-*Microsoft Corporation v. John Does 1027* (Feb. 22, 2010) United States District Court for the State of Victoria, Civil Action 1:10 cv 156 (LMB/JFA).
-*Microsoft Corporation v. Newport Internet Marketing Corporation Does 2-20* (2005) No. 03-2-12648-9 SEA (United States, King County Superior Court Seattle, Washington).
-*Lavigne v. Ontario Public Service Employees Union* [1991] 2 S.C.R. 211.
-*Little Sisters Book and Art Emporium v. Canada (Minister of Justice)* [2000]
+* *Irwin Toy v. Quebec* [1989] 1 S.C.R. 927 (Canada).
+* *James Raj Arokiasamy v Public Prosecutor* [2014] 2 SLR 307 (“James Raj”) (Singapore, States Courts).
+* *Lauri Love v. the Government of the United States of America* [2018] EWHC 172, see https://freelauri.com/wp-content/uploads/2018/02/lauri-love vusa.pdf.
+* *Libertad.de* (2006) File reference 1 Ss 319/05, March 22, 2006 (Germany, Higher Regional Court, Frankfurt am Main).
+* *Lion Laboratories v Evans,* [1985] QB 526.
+* *McAuliffe v The Queen* [1995] 183 CLR 108.
+* *McCabe v British American Tobacco Services Limited *[2002] VSC 73.
+* *Microsoft Corporation v. John Does 1027* (Feb. 22, 2010) United States District Court for the State of Victoria, Civil Action 1:10 cv 156 (LMB/JFA).
+* *Microsoft Corporation v. Newport Internet Marketing Corporation Does 2-20* (2005) No. 03-2-12648-9 SEA (United States, King County Superior Court Seattle, Washington).
+* *Lavigne v. Ontario Public Service Employees Union* [1991] 2 S.C.R. 211.
+* *Little Sisters Book and Art Emporium v. Canada (Minister of Justice)* [2000]
 2 S.C.R. 1120.
-*Paracha v. Obama* (2011) No. 04-2022 (PLF) (April 29, 2011) (US District Court for the District of Columbia).
+* *Paracha v. Obama* (2011) No. 04-2022 (PLF) (April 29, 2011) (US District Court for the District of Columbia).
 Case:
-https://scholar.google.com.au/scholar_case?case=7165402973414950017& q=Paracha+wikileaks&hl=en&as_sdt=2006&as_vis=1#r[1].
-Petitioner’s (Paracha’s) emergency application: https://fas.org/sgp/jud/ par/042711-access.pdf.
-Respondents’ (Obama et al.’s) response: https://fas.org/sgp/jud/ par/061511-response376.pdf.
-*Regan Gerard Gilmour v Director of Public Prosecutions (Commonwealth)* [1996] NSWSC 55.
-*R v. Caffrey* (2006).
-*R v Christopher Weatherhead, Ashley Rhodes, Peter Gibson, and Jake Birchall* (January 24, 2013) (United Kingdom, Southwark Crown Court in London).
-*R v Cleary, Davis, Al-Bassam and Ackroyd* (May 16 and 24, 2013) (United Kingdom Southwark Crown Court in London).
-*R v Glen Steven Mangham* (February 17, 2012) (United Kingdom, Southwark Crown Court in London).
-*R v Glen Steven Mangham* Court of Appeal [2012] EWCA Crim 973 (April 4, 2012) (England and Wales Court of Appeal (Criminal Division)), see http://www.bailii.org/ew/cases/EWCA/Crim/2012/973.html.
-*R v. Keegstra* [1990] 3 S.C.R. 697.
-*R v National Post* [2010] 1 SCR 477.
-*R v. Sharpe* [2001] 1 S.C.R. 45.
-*R v Stevens* [1999] NSWCCA 69.
-*R v Walker* [2008] NZHC 1114.
-*R v. Zundel* [1992] 2 S.C.R. 731.
-*Rocket v. Royal College of Dental Surgeons of Ontario* [1990] 2 S.C.R. 232 (Canada).
-*R.W.D.S.U. v. Dolphin Delivery Ltd*. [1986] 2. S.C.R. 573.
-*Salter v DPP* [2008] NSWSC 1325.
-*Sierra Corporate Design Inc. v. David Ritz* (2007) File No. op-05-C-01660 (United States, District Court, County of Cass, State of North Dakota). See www.spamsuite.com.com/node/351.
-*Society of Composers, Authors and Music Publishers of Canada v Bell Canada* [2012] 2 SCR 326.
-*Sony Computer Entertainment, Inc. v. Connectix Corporation* (2000) 203 F. 3d 596, Ninth Circuit.
-*Soyke v R* [2016] NSWCCA 112 (June 10, 2016).
-*Specht v. Netscape Communications Corp*. (2002) 306 F. 3d 17, Court of Appeals, Second Circuit.
-*State of Israel v. Anat Kamm* (2010) Case 17959-01-10 (Israel, District Court of Tel Aviv Jaffa). See http://www.maannews.net/eng/ViewDetails. aspx?ID=275114.
-*Théberge v. Galerie d’Art du Petit Champlain* [2002] 2 S.C.R. 336.
-*U.F.C.W., Local 1518 v. Kmart Canada Ltd.* [1999] 2 S.C.R. 1083.
-*United States of America v. Aaron Swartz*, 1:11-cr-10260 (US District Court for the District of Massachusetts).
-*United States of America v. Bradley Manning E., PFC* (2013) (United States, Army Military District of Washington).
-*United States of America v. Daniel Spitler and Andrew Alan Escher Auernheimer*, Mag. No. 11-4022 (CCC) (United States, District of New Jersey).
-Criminal Complaint, available at http://www.justice.gov/usao/nj/Press/ files/pdffiles/2011/Spitler,%20Daniel%20et%20al.%20Complaint.pdf.
-*United States of America v. Dennis Collins, et al* (2011), No. CR 11-00471 DLJ (United States District Court, Northern District of California, San Jose Division). For indictment, see http://ia600502.us.archive.org/24/items/ gov.uscourts.cand.242989/gov.uscourts.cand.242989.1.0.pdf.
-*United States of America v. Ford*, 765 F.2d 1088, 1090 (11th Cir.1985).
-*United States of America v. Gorshkov* (2001) WL 1024026 (United States, Western District Washington).
-*United States of America v. Jarrett* (2003) 338 F. 3d 339, No. 02-4953 (July 29, 2003) (United States, Court of Appeals, Fourth Circuit). See http://scholar. google.com.au/scholar_case?case=7704360326371177621.
-*United States of America v. Jeremy Hammond* (2013) 12 Cr. 185 (LAP) (United States District Court of Southern District of New York).
-Case, available at http://www.justice.gov/usao/nys/pressreleases/May13/ HammondJeremyPleaPR/U.S.%20v.%20Jeremy%20Hammond%20S2%20 Information.pdf.
-Free Jeremy (website), legal documents: https://freejeremy.net/category/ legal/ including Sentencing Letter by Jeremy Hammond.
-*United States of America v Kevin George Poe* (2011) CR 11 01166 (United States, District Court for the Central District of California).
-*United States of America v. Kretsinger* (2:11-cr-00848) (US Central District of California (Los Angeles)).
-*United States of America v. Lauri Love* (US District Court for the District of New Jersey), see https://www.scribd.com/doc/179595899/LoveLauri Indictment.
-*United States of America v. Raynaldo Rivera*, CR No. 12-798-JAK (US District Court for the Central District of California).
-Plea agreement: https://freeanons.org/wp content/uploads/courtdocuments/Raynaldo-Rivera.pdf.
-*United States of America v. Steiger* (2003) 318 F. 3d 1039, Nos. 01-15788, 01-16100 and 01-16269 (January 14, 2003) (United States, Court of Appeals 11th Circuit). See http://scholar.google.com.au/scholar_case?case= 5611821785646747519.
-*Zitierung: BVerfG, 1 BvR 370/07 vom 27.2.2008, Absatz-Nr. *(1–333), see http://www.bverfg.de/entscheidungen/rs20080227_1bvr037007.html.
+https://scholar.google.com.au/scholar_case?case=7165402973414950017&q=Paracha+wikileaks&hl=en&as_sdt=2006&as_vis=1#r[1].
+Petitioner’s (Paracha’s) emergency application: https://fas.org/sgp/jud/par/042711-access.pdf.
+Respondents’ (Obama et al.’s) response: https://fas.org/sgp/jud/par/061511-response376.pdf.
+* *Regan Gerard Gilmour v Director of Public Prosecutions (Commonwealth)* [1996] NSWSC 55.
+* *R v. Caffrey* (2006).
+* *R v Christopher Weatherhead, Ashley Rhodes, Peter Gibson, and Jake Birchall* (January 24, 2013) (United Kingdom, Southwark Crown Court in London).
+* *R v Cleary, Davis, Al-Bassam and Ackroyd* (May 16 and 24, 2013) (United Kingdom Southwark Crown Court in London).
+* *R v Glen Steven Mangham* (February 17, 2012) (United Kingdom, Southwark Crown Court in London).
+* *R v Glen Steven Mangham* Court of Appeal [2012] EWCA Crim 973 (April 4, 2012) (England and Wales Court of Appeal (Criminal Division)), see http://www.bailii.org/ew/cases/EWCA/Crim/2012/973.html.
+* *R v. Keegstra* [1990] 3 S.C.R. 697.
+* *R v National Post* [2010] 1 SCR 477.
+* *R v. Sharpe* [2001] 1 S.C.R. 45.
+* *R v Stevens* [1999] NSWCCA 69.
+* *R v Walker* [2008] NZHC 1114.
+* *R v. Zundel* [1992] 2 S.C.R. 731.
+* *Rocket v. Royal College of Dental Surgeons of Ontario* [1990] 2 S.C.R. 232 (Canada).
+* *R.W.D.S.U. v. Dolphin Delivery Ltd*. [1986] 2. S.C.R. 573.
+* *Salter v DPP* [2008] NSWSC 1325.
+* *Sierra Corporate Design Inc. v. David Ritz* (2007) File No. op-05-C-01660 (United States, District Court, County of Cass, State of North Dakota). See www.spamsuite.com.com/node/351.
+* *Society of Composers, Authors and Music Publishers of Canada v Bell Canada* [2012] 2 SCR 326.
+* *Sony Computer Entertainment, Inc. v. Connectix Corporation* (2000) 203 F. 3d 596, Ninth Circuit.
+* *Soyke v R* [2016] NSWCCA 112 (June 10, 2016).
+* *Specht v. Netscape Communications Corp*. (2002) 306 F. 3d 17, Court of Appeals, Second Circuit.
+* *State of Israel v. Anat Kamm* (2010) Case 17959-01-10 (Israel, District Court of Tel Aviv Jaffa). See http://www.maannews.net/eng/ViewDetails. aspx?ID=275114.
+* *Théberge v. Galerie d’Art du Petit Champlain* [2002] 2 S.C.R. 336.
+* *U.F.C.W., Local 1518 v. Kmart Canada Ltd.* [1999] 2 S.C.R. 1083.
+* *United States of America v. Aaron Swartz*, 1:11-cr-10260 (US District Court for the District of Massachusetts).
+* *United States of America v. Bradley Manning E., PFC* (2013) (United States, Army Military District of Washington).
+* *United States of America v. Daniel Spitler and Andrew Alan Escher Auernheimer*, Mag. No. 11-4022 (CCC) (United States, District of New Jersey).
+Criminal Complaint, available at http://www.justice.gov/usao/nj/Press/files/pdffiles/2011/Spitler,%20Daniel%20et%20al.%20Complaint.pdf.
+* *United States of America v. Dennis Collins, et al* (2011), No. CR 11-00471 DLJ (United States District Court, Northern District of California, San Jose Division). For indictment, see http://ia600502.us.archive.org/24/items/gov.uscourts.cand.242989/gov.uscourts.cand.242989.1.0.pdf.
+* *United States of America v. Ford*, 765 F.2d 1088, 1090 (11th Cir.1985).
+* *United States of America v. Gorshkov* (2001) WL 1024026 (United States, Western District Washington).
+* *United States of America v. Jarrett* (2003) 338 F. 3d 339, No. 02-4953 (July 29, 2003) (United States, Court of Appeals, Fourth Circuit). See http://scholar. google.com.au/scholar_case?case=7704360326371177621.
+* *United States of America v. Jeremy Hammond* (2013) 12 Cr. 185 (LAP) (United States District Court of Southern District of New York).
+Case, available at http://www.justice.gov/usao/nys/pressreleases/May13/HammondJeremyPleaPR/U.S.%20v.%20Jeremy%20Hammond%20S2%20Information.pdf.
+Free Jeremy (website), legal documents: https://freejeremy.net/category/legal/ including Sentencing Letter by Jeremy Hammond.
+* *United States of America v Kevin George Poe* (2011) CR 11 01166 (United States, District Court for the Central District of California).
+* *United States of America v. Kretsinger* (2:11-cr-00848) (US Central District of California (Los Angeles)).
+* *United States of America v. Lauri Love* (US District Court for the District of New Jersey), see https://www.scribd.com/doc/179595899/Love-Lauri-Indictment.
+* *United States of America v. Raynaldo Rivera*, CR No. 12-798-JAK (US District Court for the Central District of California).
+Plea agreement: https://freeanons.org/wp-content/uploads/courtdocuments/Raynaldo-Rivera.pdf.
+* *United States of America v. Steiger* (2003) 318 F. 3d 1039, Nos. 01-15788, 01-16100 and 01-16269 (January 14, 2003) (United States, Court of Appeals 11th Circuit). See http://scholar.google.com.au/scholar_case?case= 5611821785646747519.
+* *Zitierung: BVerfG, 1 BvR 370/07 vom 27.2.2008, Absatz-Nr. *(1–333), see http://www.bverfg.de/entscheidungen/rs20080227_1bvr037007.html.
 
 ### Books
-Aitchison, R. “DNS Records.” In Pro DNS and BIND, Apress Publishers, 2003.
-Anderson, R. *Security Engineering: A Guide to Building Dependable Distributed Systems*, 2nd ed. Indianapolis: Wiley Publishing, 2008.
-Athanasopoulos, E., Anagnostakis, K., and Markatos, E. “Misusing Unstructured P2P Systems to Perform DoS attacks: The Network that Never Forgets” Lecture Notes in Computer Science for *Applied Cryptography and Network Security*. Springer Berlin, 2006. Available at http://www.springerlink.com/content/xk82663475474857/.
-Atkin, T. et al.* Information Security Management Handbook*. CRC Press, 2006.
-Barlow, J. P. “Crime and Puzzlement,” Appendix 1 in Ludlow, P. (ed.), *High Noon on the Electronic Frontier: Conceptual Issues in Cyberspace*. MIT Press, 1996.
-Barton, P., and Yegneswaran, V. “An Inside Look at Botnets.” In Somesh, J., Maughan, D., Song, D., and Wang, C. (eds.), *Malware Detection*. New York: Springer, 2007.
-Bentham, J. *Panopticon*, in Miran Bozovic (ed.), *The Panopticon Writings*.
-London: Verso, 1995), 29-95.
-Blount, *S. Electronic Contracts: Principles for the Common Law.* Australia: Reed International Books, 2009.
-Bowrey, K. *Law & Internet Cultures*. Cambridge University Press, 2005.
-Brenner, S. W. *Law in an Era of “Smart” Technology*. Oxford University Press, 2007.
-Brown, A. J. *Whistleblowing in the Australian Public Sector: Enhancing the theory and practice of internal witness management in public sector organisations.* 
+* Aitchison, R. “DNS Records.” In Pro DNS and BIND, Apress Publishers, 2003.
+* Anderson, R. *Security Engineering: A Guide to Building Dependable Distributed Systems*, 2nd ed. Indianapolis: Wiley Publishing, 2008.
+* Athanasopoulos, E., Anagnostakis, K., and Markatos, E. “Misusing Unstructured P2P Systems to Perform DoS attacks: The Network that Never Forgets” Lecture Notes in Computer Science for *Applied Cryptography and Network Security*. Springer Berlin, 2006. Available at http://www.springerlink.com/content/xk82663475474857/.
+* Atkin, T. et al.* Information Security Management Handbook*. CRC Press, 2006.
+* Barlow, J. P. “Crime and Puzzlement,” Appendix 1 in Ludlow, P. (ed.), *High Noon on the Electronic Frontier: Conceptual Issues in Cyberspace*. MIT Press, 1996.
+* Barton, P., and Yegneswaran, V. “An Inside Look at Botnets.” In Somesh, J., Maughan, D., Song, D., and Wang, C. (eds.), *Malware Detection*. New York: Springer, 2007.
+* Bentham, J. *Panopticon*, in Miran Bozovic (ed.), *The Panopticon Writings*. London: Verso, 1995), 29-95.
+* Blount, *S. Electronic Contracts: Principles for the Common Law.* Australia: Reed International Books, 2009.
+* Bowrey, K. *Law & Internet Cultures*. Cambridge University Press, 2005.
+* Brenner, S. W. *Law in an Era of “Smart” Technology*. Oxford University Press, 2007.
+* Brown, A. J. *Whistleblowing in the Australian Public Sector: Enhancing the theory and practice of internal witness management in public sector organisations.* 
 ANU Press, Canberra. Available at http://epress.anu.edu.au/anzsog/ whistleblowing/mobile_devices/index.html, accessed February 10, 2014.
-Chan, J., Goggin, G., and Bruce, J. “Internet Technologies and Criminal Justice.” In Jewkes, Y., and Yar, M., *Handbook of Internet Crime*. Willan Publishing, 2010.
+* Chan, J., Goggin, G., and Bruce, J. “Internet Technologies and Criminal Justice.” In Jewkes, Y., and Yar, M., *Handbook of Internet Crime*. Willan Publishing, 2010.
 Chiesa, R., Ducci, S., and Ciappi, S.* Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking*. UNICRI and CRC Press, 2009.
 Clayton, R. “Failures in a Hybrid Content Blocking System.” In Danezis, G., and Martin, D. (eds.), *Privacy Enhancing Technologies*. PET 2005. Lecture Notes in Computer Science, vol 3856. Springer, Berlin, Heidelberg, pp. 78–92. https://doi.org/10.1007/11767831_6.
 Cohen, F. *A Short Course on Computer Viruses*, 2nd ed. Wiley, 1994.
@@ -1072,7 +1071,7 @@ The Agenda, “Attack of the Hacktivists” (TVO, October 25, 2011).
 
 “Virtual Private Network,” available at http://www.en.wikipedia.org/wiki/ Virtual_private_network (last accessed June 30, 2010).
 
-## Appendix: Interview Questions
+### Appendix: Interview Questions
 
 **Question 1**: Has there been an erosion of a common hacker ethos or has the ethos merely evolved into many different sets of ethics?
 
@@ -1094,7 +1093,7 @@ The Agenda, “Attack of the Hacktivists” (TVO, October 25, 2011).
 
 **Question 10:** Is there any advice in general that you wish to impart to governments and organisations in dealing with ethical hacking?
 
-## About the Cover Image and the Artist
+### About the Cover Image and the Artist
 Serendipity brought scholarly publishing and cutting-edge art production together when we discovered the work of Phillip David Stearns.
 
 A Brooklyn-based artist, Stearns has worked at the crossroads of technology and creativity, developing, among others, a project entitled *Glitch Textiles*, which explored the intersection of digital art and textile design.
@@ -1103,7 +1102,7 @@ A search for an original visual translation of the hidden digital world inhabite
 
 “Since 2012,” Stearns said, “if anything, I’ve been seduced by the aesthetics of the algorithm.” With the author Alana Maurushat being a self-described ethical hacker and the artist developing a series of“Ethical Hacking workshops for non-technical people,” *Fragmented Memory* seemed to us the only possible cover image for this volume.
 
-## Law, Technology and Media
+### Law, Technology and Media
 
 Edited by Michael Geist
 
