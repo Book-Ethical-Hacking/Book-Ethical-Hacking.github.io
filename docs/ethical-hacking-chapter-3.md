@@ -141,19 +141,19 @@ Once collected and tagged appropriately, the consolidated file was then ingested
 
 The following structure prevailed.
 
-**MessageID**—ID of forum post
-**ThreadID**—ID of parent thread
-**ThreadName**—Name of parent thread
-**MemberID**—ID of posting member
-**MemberName**—Name of posting member
-**Message**—Content of forum post in question
-**Pyear**—Year of post
-**Pmonth**—Month of post
-**Pday**—Day of post
-**Pdate**—Aggregated field of above three times
-**ThreadFirstMessageID**—ID of first message in thread
-**Forumname**—Generated field, recording name, of originating forum
-**Classification**—Generated field, describing type of message content
+**MessageID**—ID of forum post  
+**ThreadID**—ID of parent thread  
+**ThreadName**—Name of parent thread  
+**MemberID**—ID of posting member  
+**MemberName**—Name of posting member  
+**Message**—Content of forum post in question  
+**Pyear**—Year of post  
+**Pmonth**—Month of post  
+**Pday**—Day of post  
+**Pdate**—Aggregated field of above three times  
+**ThreadFirstMessageID**—ID of first message in thread  
+**Forumname**—Generated field, recording name, of originating forum  
+**Classification**—Generated field, describing type of message content  
 
 To give context to programs analyzing the content stored in the aggregated CSV file, the content contained in each forum post needed to be tokenized. Tokenization is the process of individually segmenting each word within a larger corpus. Tokenization is a fundamental part of natural language processing (NLP), which allows for computers to interpret language to perform various operations to generate insight about what is being said. Given the size of the data set at hand and the inability of a single analyst to traverse each entry, NLP provides for an effective way to analyze this data set.
 
@@ -161,36 +161,36 @@ Tokenizing the current data set required yet another script. Using the Natural L
 
 At the conclusion of processing, the working data set was approximately 7.43 gigabytes in size. However, for this analysis we were able to leverage search terms in order to condense to be more specific in our findings. The search terms we used to narrow the collected set were:
 
-Ethical Hacking
-Hacktivism
-Anonymous
-Cyber
-DDoS
-Lulzsec
-Chaos Computer Club
-Online
-Hacking
+Ethical Hacking  
+Hacktivism  
+Anonymous  
+Cyber  
+DDoS  
+Lulzsec  
+Chaos Computer Club  
+Online  
+Hacking  
 
 The presence of these terms needed to be felt across either the ThreadName or MessageID fields in each post. These searchers resulted in a total data-set size of approximately 256 megabytes, which represents the subset of data used in the analysis below.
 
 The following Dark-Net forums were cleaned and analyzed:
 
-afghanForum
-afghanForums
-allsomaliforum
-ansarl.txt
-banadir24
-Gawaher.txt
-IslamicAwakening.txt
-IslamicNetwork.txt
-Itdarashag
-Karbush
-Myiwc.txt
-Pastunforums
-Somaliaonline
-solamliUK
-TurtoIslam.txt
-Ummah.txt
+afghanForum  
+afghanForums  
+allsomaliforum  
+ansarl.txt  
+banadir24  
+Gawaher.txt  
+IslamicAwakening.txt  
+IslamicNetwork.txt  
+Itdarashag  
+Karbush  
+Myiwc.txt  
+Pastunforums  
+Somaliaonline  
+solamliUK  
+TurtoIslam.txt  
+Ummah.txt  
 
 Figure 5 looks at the frequency of instances in cyber-jihad forums where there are elements of ethical hacking from 2000 to 2012.
 
