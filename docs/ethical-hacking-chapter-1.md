@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter I, Why Ethical Hacking? 
+title: § Chapter I, Why Ethical Hacking? 
 parent: Ethical Hacking
 nav_order: 30010
 ---
