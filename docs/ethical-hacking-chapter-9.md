@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter IX, Penetration/Intrusion Testing and Vulnerability Disclosure  
+title: § Chapter IX, Penetration/Intrusion Testing and Vulnerability Disclosure  
 parent: Ethical Hacking
 nav_order: 30090
 ---

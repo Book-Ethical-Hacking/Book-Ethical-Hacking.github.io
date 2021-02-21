@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter VI,  Select Ethical-Hacking Incidences - Chaos Computer Club, CyberBerkut, LulzSec, Iranian Cyber Army, and Others
+title: § Chapter VI,  Select Ethical-Hacking Incidences - Chaos Computer Club, CyberBerkut, LulzSec, Iranian Cyber Army, and Others
 parent: Ethical Hacking
 nav_order: 30060
 ---

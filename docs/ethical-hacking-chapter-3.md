@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter III, Methodology and Quantitative Studies of Ethical Hacking - Evidence-Based Decision and Policy-Making 
+title: § Chapter III, Methodology and Quantitative Studies of Ethical Hacking - Evidence-Based Decision and Policy-Making 
 parent: Ethical Hacking
 nav_order: 30030
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bibliography  
+title: § Bibliography  
 parent: Ethical Hacking
 nav_order: 30200
 ---

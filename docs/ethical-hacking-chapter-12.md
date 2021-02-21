@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter XII, Ethical-Hacking Challenges in Legal Frameworks, Investigation, Prosecution, and Sentencing  
+title: § Chapter XII, Ethical-Hacking Challenges in Legal Frameworks, Investigation, Prosecution, and Sentencing  
 parent: Ethical Hacking
 nav_order: 30120
 ---

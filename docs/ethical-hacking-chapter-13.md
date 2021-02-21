@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter XIII, Ethical Hacking, Whistle-Blowing, and Human Rights and Freedoms  
+title: § Chapter XIII, Ethical Hacking, Whistle-Blowing, and Human Rights and Freedoms  
 parent: Ethical Hacking
 nav_order: 30130
 ---

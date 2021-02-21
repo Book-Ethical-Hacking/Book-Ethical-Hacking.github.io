@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter VIII, Hacktivism  
+title: § Chapter VIII, Hacktivism  
 parent: Ethical Hacking
 nav_order: 30080
 ---

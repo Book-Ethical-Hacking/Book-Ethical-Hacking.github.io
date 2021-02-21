@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter X, Counterattack/Hackback  
+title: § Chapter X, Counterattack/Hackback  
 parent: Ethical Hacking
 nav_order: 30100
 ---

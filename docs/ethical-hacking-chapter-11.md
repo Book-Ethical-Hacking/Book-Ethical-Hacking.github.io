@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter XI, Security Activism  
+title: § Chapter XI, Security Activism  
 parent: Ethical Hacking
 nav_order: 30110
 ---

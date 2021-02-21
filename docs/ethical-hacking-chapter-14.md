@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter XIV, Toward an Ethical-Hacking Framework  
+title: § Chapter XIV, Toward an Ethical-Hacking Framework  
 parent: Ethical Hacking
 nav_order: 30140
 ---

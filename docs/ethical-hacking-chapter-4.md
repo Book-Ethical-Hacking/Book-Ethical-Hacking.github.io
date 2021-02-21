@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter IV, Legal Cases Around the World 
+title: § Chapter IV, Legal Cases Around the World 
 parent: Ethical Hacking
 nav_order: 30040
 ---

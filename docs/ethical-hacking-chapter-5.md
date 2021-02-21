@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter V, Select Ethical-Hacking Incidences - Anonymous 
+title: § Chapter V, Select Ethical-Hacking Incidences - Anonymous 
 parent: Ethical Hacking
 nav_order: 30050
 ---

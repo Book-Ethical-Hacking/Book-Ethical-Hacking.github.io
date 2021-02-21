@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter II, Essential Terms and Concepts 
+title: § Chapter II, Essential Terms and Concepts 
 parent: Ethical Hacking
 nav_order: 30020
 ---

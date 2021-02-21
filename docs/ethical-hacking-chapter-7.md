@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter VII, Online Civil Disobedience 
+title: § Chapter VII, Online Civil Disobedience 
 parent: Ethical Hacking
 nav_order: 30070
 ---
